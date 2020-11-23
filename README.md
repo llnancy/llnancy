@@ -1,4 +1,9 @@
-### Hi there 👋
+### 打工人的倔强
+
+- 🔭 I’m currently working on didi
+- 🌱 I’m currently learning Java/Python
+- 📫 How to reach me: admin@lilu.org.cn
+- 😄 Pronouns: SunChaser
 
 <!--
 **sunchaser-lilu/sunchaser-lilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
