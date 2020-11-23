@@ -1,7 +1,7 @@
 ### 打工人的倔强
 
 - 🔭 I’m currently working on didi
-- 🌱 I’m currently learning Java/Python
+- 🌱 My blog: https://lilu.org.cn
 - 📫 How to reach me: admin@lilu.org.cn
 - 😄 Pronouns: SunChaser
 
