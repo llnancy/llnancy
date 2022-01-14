@@ -4,7 +4,7 @@
 - 🌱 My blog: https://lilu.org.cn
 - 📫 How to reach me: admin@lilu.org.cn
 - 😄 Pronouns: SunChaser
-- ⚡ 2022, I
+- ⚡ 2022, I am in Netease
 
 <!--
 **sunchaser-lilu/sunchaser-lilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
