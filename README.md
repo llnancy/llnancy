@@ -66,7 +66,7 @@
 <a href="https://chat.getloli.com/room/@sunchaser-lilu.github?title=SunChaser的Github留言板" target="_blank">![](https://chat.getloli.com/room/@sunchaser-lilu.github/svg?width=480&height=280&limit=20&theme=light&title=sunchaser-lilu@github:%20~&fontSize=13)</a>
 
  <!-- waka-box start -->
-📊 Weekly development breakdown
+#### <a href="https://gist.github.com/ce48db7ec22041c64c81cba4fbdf5018" target="_blank">📊 Weekly development breakdown</a>
 ```text
 Still Gathering Statistics...
 ```
