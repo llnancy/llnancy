@@ -15,7 +15,7 @@ jobs:
     env:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      UPDATE_OPTION: MARKDOWN
+      UPDATE_OPTION: GIST_AND_MARKDOWN
       MARKDOWN_FILE: README.md
       GIST_ID: ce48db7ec22041c64c81cba4fbdf5018
       GIST_BARSTYLE: SOLIDLT
