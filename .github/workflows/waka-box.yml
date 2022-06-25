@@ -17,6 +17,10 @@ jobs:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
+      GIST_ID: ce48db7ec22041c64c81cba4fbdf5018
+      GIST_BARSTYLE: SOLIDLT
+      GIST_BARLENGTH: -1
+      GIST_TIMESTYLE: SHORT
 
     steps:
       - name: Set up Go 1.x
