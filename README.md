@@ -2,10 +2,10 @@
 
 <em><big><strong>有心者有所累，无心者无所谓。</strong></big></em>
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sunchaser-lilu&show_icons=true&icon_color=9370DB&text_color=9370DB&bg_color=ffffff&hide_title=true" />
-  <img align="right" height="160" src="https://count.getloli.com/get/@sunchaser-lilu" alt="sunchaser-lilu" />
-</p>
+| <a href="https://github.com/sunchaser-lilu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunchaser-lilu&show_icons=true&icon_color=9370DB&text_color=9370DB&bg_color=ffffff&hide_title=true&hide_border=true" alt="sunchaser-lilu's github stats" /></a> | <a href="https://github.com/sunchaser-lilu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunchaser-lilu&layout=compact&theme=buefy&hide_border=true&hide_title=true" /></a> |
+| ------------- | ------------- |
+
+<img align="right" height="160" src="https://count.getloli.com/get/@sunchaser-lilu" alt="sunchaser-lilu" />
 
 ## Platform & Skills
 
@@ -63,7 +63,7 @@
 
 ⬇️**点击下方图片留言**⬇️
 
-<a href="https://chat.getloli.com/room/@sunchaser-lilu.github?title=SunChaser的Github留言板" target="_blank">![](https://chat.getloli.com/room/@sunchaser-lilu.github/svg?width=480&height=280&limit=20&theme=light&title=sunchaser-lilu@github:%20~&fontSize=13)</a>
+<a href="https://chat.getloli.com/room/@sunchaser-lilu.github?title=SunChaser的Github留言板" target="_blank">![](https://chat.getloli.com/room/@sunchaser-lilu.github/svg?height=280&limit=20&theme=light&title=sunchaser-lilu@github:%20~&fontSize=13)</a>
 
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/ce48db7ec22041c64c81cba4fbdf5018" target="_blank">📊 每周工作报告</a>
