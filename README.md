@@ -32,11 +32,7 @@
 
 [![](https://img.shields.io/badge/-Java-6DB33F?style=flat-square&logo=Java&logoColor=ffffff)](https://www.java.com/zh-CN/)
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://spring.io/projects/spring-framework)
-[![](https://img.shields.io/badge/-Spring%20MVC-6DB33F?style=flat-square&logo=Spring%20MVC&logoColor=ffffff)](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#spring-web)
 [![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=ffffff)](https://spring.io/projects/spring-boot)
-[![](https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=Spring%20Cloud&logoColor=ffffff)](https://spring.io/projects/spring-cloud)
-[![](https://img.shields.io/badge/-Spring%20Cloud%20Alibaba-6DB33F?style=flat-square&logo=Spring%20Cloud%20Alibaba&logoColor=ffffff)](https://spring.io/projects/spring-cloud-alibaba)
-[![](https://img.shields.io/badge/-Spring%20Statemachine-6DB33F?style=flat-square&logo=Spring%20Statemachine&logoColor=ffffff)](https://spring.io/projects/spring-statemachine)
 [![](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=ffffff)](https://graphql.org/)
 [![](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=ffffff)](https://maven.apache.org/)
 [![](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=ffffff)](https://tomcat.apache.org/)
@@ -63,7 +59,7 @@
 
 ⬇️**点击下方图片留言**⬇️
 
-<a href="https://chat.getloli.com/room/@sunchaser-lilu.github?title=SunChaser的Github留言板" target="_blank">![](https://chat.getloli.com/room/@sunchaser-lilu.github/svg?height=280&limit=20&theme=light&title=sunchaser-lilu@github:%20~&fontSize=13)</a>
+<a href="https://chat.getloli.com/room/@sunchaser-lilu.github?title=SunChaser的Github留言板" target="_blank">![](https://chat.getloli.com/room/@sunchaser-lilu.github/svg?width=620&height=140&limit=20&theme=light&title=sunchaser-lilu@github:%20~&fontSize=13)</a>
 
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/ce48db7ec22041c64c81cba4fbdf5018" target="_blank">📊 每周工作报告</a>
