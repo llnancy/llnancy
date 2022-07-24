@@ -62,13 +62,9 @@
 <a href="https://chat.getloli.com/room/@sunchaser-lilu.github?title=SunChaser的Github留言板" target="_blank">![](https://chat.getloli.com/room/@sunchaser-lilu.github/svg?width=620&height=140&limit=20&theme=light&title=sunchaser-lilu@github:%20~&fontSize=13)</a>
 
  <!-- waka-box start -->
-#### <a href="https://gist.github.com/ce48db7ec22041c64c81cba4fbdf5018" target="_blank">📊 每周工作报告</a>
+#### <a href="https://gist.github.com/ce48db7ec22041c64c81cba4fbdf5018" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Java             🕓 38h44m █████████████████▋░░░ 84.4%
-XML              🕓 5h24m  ██▍░░░░░░░░░░░░░░░░░░ 11.8%
-Markdown         🕓 31m    ▏░░░░░░░░░░░░░░░░░░░░  1.1%
-Properties       🕓 23m    ▏░░░░░░░░░░░░░░░░░░░░  0.9%
-Bash             🕓 11m    ░░░░░░░░░░░░░░░░░░░░░  0.4%
+Still Gathering Statistics...
 ```
-<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
