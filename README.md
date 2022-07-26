@@ -61,7 +61,7 @@
 
 <a href="https://chat.getloli.com/room/@sunchaser-lilu.github?title=SunChaser的Github留言板" target="_blank">![](https://chat.getloli.com/room/@sunchaser-lilu.github/svg?width=620&height=140&limit=20&theme=light&title=sunchaser-lilu@github:%20~&fontSize=13)</a>
 
-<!-- waka-box start -->
+<!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在日间工作 🐤</a>
 ```text
 🌞 早晨        153 commits  ██████▊░░░░░░░░░░░░░░  32.4%
@@ -69,4 +69,4 @@
 🌃 晚上         26 commits  █▏░░░░░░░░░░░░░░░░░░░   5.5%
 🌙 深夜         80 commits  ███▌░░░░░░░░░░░░░░░░░  16.9%
 ```
-<!-- waka-box end -->
+<!-- productive-box end -->
