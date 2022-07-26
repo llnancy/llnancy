@@ -61,6 +61,10 @@
 
 <a href="https://chat.getloli.com/room/@sunchaser-lilu.github?title=SunChaser的Github留言板" target="_blank">![](https://chat.getloli.com/room/@sunchaser-lilu.github/svg?width=620&height=140&limit=20&theme=light&title=sunchaser-lilu@github:%20~&fontSize=13)</a>
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在日间工作 🐤</a>
 ```text
@@ -70,3 +74,13 @@
 🌙 深夜         80 commits  ███▌░░░░░░░░░░░░░░░░░  16.8%
 ```
 <!-- productive-box end -->
+
+</td>
+<td valign="top" width="50%">
+
+<!-- netease-music-box start -->
+<!-- netease-music-box end -->
+
+</td>
+</tr>
+</table>

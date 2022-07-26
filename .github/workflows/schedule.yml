@@ -32,6 +32,8 @@ jobs:
         run: |-
           git clone https://github.com/sunchaser-lilu/productive-box.git
           node productive-box/dist/index.js
+          git clone https://github.com/sunchaser-lilu/netease-music-box.git
+          node netease-music-box/index.js
       - name: Commit and push
         run: |-
           git config --global user.email "admin@lilu.org.cn" && git config --global user.name "sunchaser-lilu"
