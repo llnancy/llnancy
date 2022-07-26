@@ -17,6 +17,8 @@ jobs:
       MARKDOWN_FILE: README.md
       PRODUCTIVE_GIST_ID: f5eada56197da823b4cac1050a267745
       NETEASE_GIST_ID: 475826c54f1a5cd2037aa96c604043c0
+      NETEASE_USER_ID: 270914295
+      NETEASE_USER_TOKEN: ${{ secrets.NETEASE_USER_TOKEN }}
 
     strategy:
       matrix:
