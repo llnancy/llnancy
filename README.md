@@ -3,7 +3,7 @@
 <em><big><strong>有心者有所累，无心者无所谓。</strong></big></em>
 
 | <a href="https://github.com/sunchaser-lilu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunchaser-lilu&show_icons=true&icon_color=9370DB&text_color=9370DB&bg_color=ffffff&hide_title=true&hide_border=true" alt="sunchaser-lilu's github stats" /></a> | <a href="https://github.com/sunchaser-lilu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunchaser-lilu&layout=compact&theme=buefy&hide_border=true&hide_title=true" /></a> |
-| ------------- | ------------- |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <img align="right" height="160" src="https://count.getloli.com/get/@sunchaser-lilu" alt="sunchaser-lilu" />
 
@@ -61,7 +61,7 @@
 
 <a href="https://chat.getloli.com/room/@sunchaser-lilu.github?title=SunChaser的Github留言板" target="_blank">![](https://chat.getloli.com/room/@sunchaser-lilu.github/svg?width=620&height=140&limit=20&theme=light&title=sunchaser-lilu@github:%20~&fontSize=13)</a>
 
- <!-- waka-box start -->
+<!-- waka-box start -->
 #### <a href="https://gist.github.com/ce48db7ec22041c64c81cba4fbdf5018" target="_blank">我通常在日间工作 🐤</a>
 ```text
 🌞 早晨        149 commits  ██████▋░░░░░░░░░░░░░░  31.8%
