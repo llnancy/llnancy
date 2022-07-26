@@ -37,11 +37,10 @@ jobs:
         run: |-
           git clone https://github.com/sunchaser-lilu/productive-box.git
           node productive-box/dist/index.js
-#       - name: Commit and push
-#         run: |-
-#           ./waka
-#           git config --global user.email "admin@lilu.org.cn" && git config --global user.name "sunchaser-lilu"
-#           git diff
-#           git add README.md && git commit -m ":memo: update profile" || exit 0
-#           git pull --rebase && git push
+      - name: Commit and push
+        run: |-
+          git config --global user.email "admin@lilu.org.cn" && git config --global user.name "sunchaser-lilu"
+          git diff
+          git add README.md && git commit -m ":memo: update profile" || exit 0
+          git pull --rebase && git push
           
