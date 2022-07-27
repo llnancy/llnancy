@@ -2,7 +2,7 @@
 
 <em><big><strong>有心者有所累，无心者无所谓。</strong></big></em>
 
-| <a href="https://github.com/sunchaser-lilu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunchaser-lilu&show_icons=true&icon_color=9370DB&text_color=9370DB&bg_color=ffffff&hide_title=true&hide_border=true" alt="sunchaser-lilu's github stats" /></a> | <a href="https://github.com/sunchaser-lilu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunchaser-lilu&layout=compact&theme=buefy&hide_border=true&hide_title=true" /></a> |
+| <a href="https://github.com/sunchaser-lilu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunchaser-lilu&count_private=true&show_icons=true&icon_color=9370DB&text_color=9370DB&bg_color=ffffff&hide_border=true&locale=cn" alt="sunchaser-lilu's github stats" /></a> | <a href="https://github.com/sunchaser-lilu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunchaser-lilu&layout=compact&theme=buefy&hide_border=true&locale=cn&card_width=500" /></a> |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <img align="right" height="160" src="https://count.getloli.com/get/@sunchaser-lilu" alt="sunchaser-lilu" />
