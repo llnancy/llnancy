@@ -92,7 +92,7 @@
 </td>
 </tr>
 <tr>
-   <td>
+   <td colspan="2">
 <!-- dog-box start -->
 <!-- dog-box end -->
    </td>
