@@ -21,7 +21,7 @@ jobs:
       NETEASE_USER_ID: 270914295
       NETEASE_USER_TOKEN: ${{ secrets.NETEASE_USER_TOKEN }}
       DOG_GIST_ID: e85d2e5765110be1d8cfe57f2557a130
-      DOG_WIDTH: 70
+      DOG_WIDTH: 65
 
     strategy:
       matrix:
