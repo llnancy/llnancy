@@ -59,6 +59,6 @@ jobs:
         run: |-
           git config --global user.email "admin@lilu.org.cn" && git config --global user.name "sunchaser-lilu"
           git diff
-          git add README.md && git commit -m ":memo: update profile" || exit 0
+          git add README.md && git commit -m ":memo: Github Action auto schedule. update profile" || exit 0
           git pull --rebase && git push
 
