@@ -61,4 +61,3 @@ jobs:
           git diff
           git add README.md && git commit -m ":memo: Github Action auto schedule. update profile" || exit 0
           git pull --rebase && git push
-
