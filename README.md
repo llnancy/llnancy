@@ -68,10 +68,10 @@
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     75 commits  ███▏░░░░░░░░░░░░░░░░░  15.4%
-🌆 白天     79 commits  ███▍░░░░░░░░░░░░░░░░░  16.3%
-🌃 晚上    266 commits  ███████████▍░░░░░░░░░  54.7%
-🌙 深夜     66 commits  ██▊░░░░░░░░░░░░░░░░░░  13.6%
+🌞 早晨     75 commits  ███▏░░░░░░░░░░░░░░░░░  15.0%
+🌆 白天     93 commits  ███▉░░░░░░░░░░░░░░░░░  18.6%
+🌃 晚上    266 commits  ███████████▏░░░░░░░░░  53.2%
+🌙 深夜     66 commits  ██▊░░░░░░░░░░░░░░░░░░  13.2%
 ```
 <!-- productive-box end -->
 
@@ -79,13 +79,13 @@
 <td valign="top" width="50%">
 
 <!-- netease-music-box start -->
-#### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 My last week in music</a>
+#### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 风吹过八千里 - 苏星婕  ·  2 plays
-🥈 斑马斑马 - 房东的猫  ·  1 plays
-🥉 孤勇者 - 陈奕迅  ·  1 plays
-   哭泣站台 - 王小帅  ·  1 plays
-   冬天的秘密 - 张家旺  ·  1 plays
+|  🥇 风吹过八千里 - 苏星婕  |  2 次 |
+|  🥈 斑马斑马 - 房东的猫  |  1 次 |
+|  🥉 孤勇者 - 陈奕迅  |  1 次 |
+|  🏅 哭泣站台 - 王小帅  |  1 次 |
+|  🏅 冬天的秘密 - 张家旺  |  1 次 |
 ```
 <!-- netease-music-box end -->
 
