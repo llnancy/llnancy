@@ -68,10 +68,10 @@
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     75 commits  ███▏░░░░░░░░░░░░░░░░░  15.0%
-🌆 白天     93 commits  ███▉░░░░░░░░░░░░░░░░░  18.6%
-🌃 晚上    266 commits  ███████████▏░░░░░░░░░  53.2%
-🌙 深夜     66 commits  ██▊░░░░░░░░░░░░░░░░░░  13.2%
+🌞 早晨     75 commits  ███░░░░░░░░░░░░░░░░░░  14.9%
+🌆 白天     95 commits  ███▉░░░░░░░░░░░░░░░░░  18.8%
+🌃 晚上    269 commits  ███████████▏░░░░░░░░░  53.3%
+🌙 深夜     66 commits  ██▋░░░░░░░░░░░░░░░░░░  13.1%
 ```
 <!-- productive-box end -->
 
@@ -81,6 +81,8 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
+| 歌名 | 次数 |
+| ---- | ---- |
 |  🥇 风吹过八千里 - 苏星婕  |  2 次 |
 |  🥈 斑马斑马 - 房东的猫  |  1 次 |
 |  🥉 孤勇者 - 陈奕迅  |  1 次 |
@@ -94,6 +96,12 @@
 <tr>
 <td colspan="2">
 <!-- dog-box start -->
+#### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
+```text
+昨天晚上也好冷，本来以为街上没人，结果刚刚偷电动车的时候被抓了，本来想反抗，但警察说了一句老实点别动，我立刻就放弃了抵抗，因为我记得你说过，你喜欢老实人。
+
+Updated at 2022-07-27 星期三
+```
 <!-- dog-box end -->
 </td>
 </tr>
