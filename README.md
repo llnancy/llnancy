@@ -91,4 +91,10 @@
 
 </td>
 </tr>
+<tr>
+   <td>
+<!-- dog-box start -->
+<!-- dog-box end -->
+   </td>
+</tr>
 </table>
