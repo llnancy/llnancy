@@ -13,6 +13,7 @@ jobs:
     name: Schedule update stats
     runs-on: ubuntu-latest
     env:
+      TIMEZONE: Asia/Shanghai
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       MARKDOWN_FILE: README.md
       PRODUCTIVE_GIST_ID: f5eada56197da823b4cac1050a267745
