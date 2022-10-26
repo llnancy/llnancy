@@ -1,3 +1,0 @@
-07:47:26.501 [main] INFO  com.sunchaser.dog.box.DogBox - ghToken: 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, gistId: e85d2e5765110be1d8cfe57f2557a130, dogWidth: 65, dogFillLen: 106
-07:47:31.355 [main] INFO  com.sunchaser.dog.box.DogBox - timeZone: Asia/Shanghai
-07:47:32.337 [main] INFO  com.sunchaser.dog.box.DogBox - markdownFile: README.md, startTag: <!-- dog-box start -->, endTag: <!-- dog-box end -->
