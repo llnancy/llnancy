@@ -35,6 +35,13 @@ jobs:
           node-version: ${{ matrix.node_version }}
       - name: Check out repo
         uses: actions/checkout@v2
+      - name: Generate Snake
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: ./assets/github-contribution-grid-snake.gif
+          svg_out_path: ./assets/github-contribution-grid-snake.svg
       - name: Clone and run productive-box
         run: |-
           git clone https://github.com/sunchaser-lilu/productive-box.git
@@ -58,9 +65,8 @@ jobs:
           mv target/dog-box-1.0-SNAPSHOT.jar ../
           cd ../
           java -jar dog-box-1.0-SNAPSHOT.jar
-      - name: Commit and push
-        run: |-
-          git config --global user.email "admin@lilu.org.cn" && git config --global user.name "sunchaser-lilu"
-          git diff
-          git add README.md && git commit -m ":memo: Github Action auto schedule. update profile" || exit 0
-          git pull --rebase && git push
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: master
+          message: ':memo: Github Action auto schedule. update profile'

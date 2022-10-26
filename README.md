@@ -1,9 +1,22 @@
-## 打工这件小事 ![](https://visitor-badge.laobi.icu/badge?page_id=sunchaser-lilu.readme)
+<h2 align="center">
+    欢迎访问我的 GitHub 👏👏👏
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=sunchaser-lilu.readme" alt="visitor-badge" />
+</h2>
 
-<em><big><strong>有心者有所累，无心者无所谓。</strong></big></em>
+<!-- 动态打字效果 -->
+<h1 align="center">
+    <a href="https://github.com/sunchaser-lilu">
+        <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&lines=有心者有所累，无心者无所谓。&center=true&size=23&width=1000" alt="有心者有所累，无心者无所谓。" />
+    </a>
+</h1>
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center">
+    <img src="./assets/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" />
+</div>
 
 | <a href="https://github.com/sunchaser-lilu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunchaser-lilu&count_private=true&show_icons=true&icon_color=9370DB&text_color=9370DB&bg_color=ffffff&hide_border=true&hide_title=true&locale=cn" alt="sunchaser-lilu's github stats" /></a> | <a href="https://github.com/sunchaser-lilu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunchaser-lilu&layout=compact&theme=buefy&hide_border=true&locale=cn&card_width=420" /></a> |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <img align="right" height="160" src="https://count.getloli.com/get/@sunchaser-lilu" alt="sunchaser-lilu" />
 
