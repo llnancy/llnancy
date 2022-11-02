@@ -6,7 +6,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
     <a href="https://github.com/sunchaser-lilu">
-        <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&lines=有心者有所累，无心者无所谓。&center=true&size=23&width=1000" alt="有心者有所累，无心者无所谓。" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&lines=保持初心，即使笨手笨脚，也会走的很远。&center=true&size=23&width=1000" alt="保持初心，即使笨手笨脚，也会走的很远。" />
     </a>
 </h1>
 
