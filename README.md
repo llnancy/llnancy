@@ -1,11 +1,11 @@
 <h2 align="center">
     欢迎访问我的 GitHub 👏👏👏
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=sunchaser-lilu.readme" alt="visitor-badge" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=llnancy.readme" alt="visitor-badge" />
 </h2>
 
 <!-- 动态打字效果 -->
 <h1 align="center">
-    <a href="https://github.com/sunchaser-lilu">
+    <a href="https://github.com/llnancy">
         <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&lines=保持初心，即使笨手笨脚，也会走的很远。;笨鸟先飞&center=true&size=23&width=1000" alt="保持初心，即使笨手笨脚，也会走的很远。" />
     </a>
 </h1>
@@ -17,7 +17,7 @@
 </div>
 -->
 
-<img align="right" height="160" src="https://count.getloli.com/get/@sunchaser-lilu" alt="sunchaser-lilu" />
+<img align="right" height="160" src="https://count.getloli.com/get/@llnancy" alt="llnancy" />
 
 ## Platform & Skills
 
@@ -72,10 +72,10 @@
 <!--
 ⬇️**点击下方图片留言**⬇️
 
-<a href="https://chat.getloli.com/room/@sunchaser-lilu.github?title=SunChaser的Github留言板" target="_blank">![](https://chat.getloli.com/room/@sunchaser-lilu.github/svg?width=620&height=140&limit=20&theme=light&title=sunchaser-lilu@github:%20~&fontSize=13)</a>
+<a href="https://chat.getloli.com/room/@llnancy.github?title=llnancy的Github留言板" target="_blank">![](https://chat.getloli.com/room/@llnancy.github/svg?width=620&height=140&limit=20&theme=light&title=llnancy@github:%20~&fontSize=13)</a>
 -->
 
-| <a href="https://github.com/sunchaser-lilu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunchaser-lilu&count_private=true&show_icons=true&icon_color=9370DB&text_color=9370DB&bg_color=ffffff&hide_border=true&hide_title=true&locale=cn" alt="sunchaser-lilu's github stats" /></a> | <a href="https://github.com/sunchaser-lilu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunchaser-lilu&layout=compact&theme=buefy&hide_border=true&locale=cn&card_width=420" /></a> |
+| <a href="https://github.com/llnancy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=llnancy&count_private=true&show_icons=true&icon_color=9370DB&text_color=9370DB&bg_color=ffffff&hide_border=true&hide_title=true&locale=cn" alt="llnancy's github stats" /></a> | <a href="https://github.com/llnancy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llnancy&layout=compact&theme=buefy&hide_border=true&locale=cn&card_width=420" /></a> |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <table>
