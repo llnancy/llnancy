@@ -70,4 +70,6 @@ jobs:
         with:
           add: 'README.md assets'
           branch: master
+          author_name: llnancy
+          author_email: admin@lilu.org.cn
           message: ':memo: Github Action auto schedule. update profile'
