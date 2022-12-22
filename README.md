@@ -46,7 +46,7 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud`, `Redis` \
 
 **Back-end Development Engineer** \
 [**Gaoyang Jiexun**](http://www.19pay.com.cn) • 2019/07/01 - 2020/10/15 \
-Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Nacos`, `Redis`, `MongoDB`, `RocketMQ`, `xxl-job`, `Sharding-JDBC`
+Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Nacos`, `Dubbo`, `Redis`, `MongoDB`, `RocketMQ`, `xxl-job`, `Sharding-JDBC`
 
 ---
 <img align="right" height="160" src="https://count.getloli.com/get/@llnancy" alt="llnancy" />
