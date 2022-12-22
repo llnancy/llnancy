@@ -1,25 +1,59 @@
-<h2 align="center">
-    欢迎访问我的 GitHub 👏👏👏
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=llnancy.readme" alt="visitor-badge" />
-</h2>
+<p>
+    👋 Hi, I'm <a href="https://lilu.org.cn" target="_blank">llnancy</a>.
+    &nbsp;&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=llnancy.readme" alt="visitor-badge" />
+</p>
 
-<!-- 动态打字效果 -->
-<h1 align="center">
-    <a href="https://github.com/llnancy">
-        <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&lines=保持初心，即使笨手笨脚，也会走的很远。;笨鸟先飞&center=true&size=23&width=1000" alt="保持初心，即使笨手笨脚，也会走的很远。" />
-    </a>
-</h1>
+<p><b> SunChaser / llnancy</b> are all of my <em>CODE NAME</em></p>
 
-<!-- 贪吃蛇代码贡献图 -->
-<!--
-<div align="center">
-    <img src="./assets/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" />
-</div>
--->
+<em>Long time no see. <b>How are you?</b> Oh, you are a new friend. <b>Hi, Nice to meet you!</b> :)</em>
 
+| <a href="https://github.com/llnancy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=llnancy&count_private=true&show_icons=true&icon_color=9370DB&text_color=9370DB&bg_color=ffffff&hide_border=true&hide_title=true&locale=en" alt="llnancy's github stats" /></a> | <a href="https://github.com/llnancy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llnancy&layout=compact&theme=buefy&hide_border=true&locale=en&card_width=420" /></a> |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+### 🤡 Brief Introduction
+
+- 🎈 I am currently working at Netease as a senior back-end development engineer.
+- 🌱 I’m currently learning [*Kubernetes*](https://kubernetes.io/), [*Cloud Native*](https://www.cncf.io/)
+- 📫 You can get in touch with me by email at [admin@lilu.org.cn](mailto:admin@lilu.org.cn)
+
+---
+
+### 📗 Education Experience
+
+[<img align="left" height="94px" width="94px" alt="HUBU" src="./assets/hubu.png"/>](https://www.hubu.edu.cn)
+
+**Bachelor Degree** \
+[**HUBU**](https://www.hubu.edu.cn) • 2015/09/01 - 2019/07/01 \
+Skills: `Computer Network`, `Operating System`, `Data Structure & Algorithm`, `Linux`, `C & C++`, `C#`, `PHP`, `Java`, `J2EE`, `etc.`
+<br/>
+
+### ⛳ Work Experience
+
+[<img align="left" height="94px" width="94px" alt="Netease" src="./assets/netease.png" />](https://www.163.com)
+
+**Senior Back-end Development Engineer** \
+[**Netease**](https://www.163.com) • 2022/01/04 - Now \
+Languages & Technologies: `Java`, `Python`, `gRPC`, `Graphql`, `Spring Boot`, `Spring Cloud`, `Redis`, `RabbitMQ` \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="DiDi" src="./assets/didi.png" />](https://www.didiglobal.com)
+
+**Back-end Development Engineer** \
+[**DiDi**](https://www.didiglobal.com) • 2020/10/20 - 2021/12/27 \
+Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud`, `Redis` \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="GaoYang" src="./assets/gaoyang.png" />](http://www.19pay.com.cn)
+
+**Back-end Development Engineer** \
+[**Gaoyang Jiexun**](http://www.19pay.com.cn) • 2019/07/01 - 2020/10/15 \
+Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Nacos`, `Redis`, `MongoDB`, `RocketMQ`, `xxl-job`, `Sharding-JDBC` \
+<br />
+
+---
 <img align="right" height="160" src="https://count.getloli.com/get/@llnancy" alt="llnancy" />
 
-## Platform & Skills
+**Languages and Frameworks**
 
 [![](https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/iPhone-13-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
@@ -69,14 +103,27 @@
 [![](https://img.shields.io/badge/-Hexo-0E83CD?style=flat-square&logo=Hexo&logoColor=ffffff)](https://hexo.io/zh-cn/)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=ffffff)](https://leetcode.cn/)
 
+<!-- 动态打字效果 -->
+<!-- <h1 align="center">
+    <a href="https://github.com/llnancy">
+        <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&lines=保持初心，即使笨手笨脚，也会走的很远。;笨鸟先飞&center=true&size=23&width=1000" alt="保持初心，即使笨手笨脚，也会走的很远。" />
+    </a>
+</h1> -->
+
+<!-- 贪吃蛇代码贡献图 -->
+<!--
+<div align="center">
+    <img src="./assets/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" />
+</div>
+-->
+
 <!--
 ⬇️**点击下方图片留言**⬇️
 
 <a href="https://chat.getloli.com/room/@llnancy.github?title=llnancy的Github留言板" target="_blank">![](https://chat.getloli.com/room/@llnancy.github/svg?width=620&height=140&limit=20&theme=light&title=llnancy@github:%20~&fontSize=13)</a>
 -->
 
-| <a href="https://github.com/llnancy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=llnancy&count_private=true&show_icons=true&icon_color=9370DB&text_color=9370DB&bg_color=ffffff&hide_border=true&hide_title=true&locale=cn" alt="llnancy's github stats" /></a> | <a href="https://github.com/llnancy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llnancy&layout=compact&theme=buefy&hide_border=true&locale=cn&card_width=420" /></a> |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+### 👉 Some Gists
 
 <table>
 <tr>
