@@ -25,7 +25,6 @@
 **Bachelor Degree** \
 [**HUBU**](https://www.hubu.edu.cn) • 2015/09/01 - 2019/07/01 \
 Skills: `Computer Network`, `Operating System`, `Data Structure & Algorithm`, `Linux`, `C & C++`, `C#`, `PHP`, `Java`, `J2EE`, `etc.`
-<br/>
 
 ### ⛳ Work Experience
 
@@ -33,19 +32,19 @@ Skills: `Computer Network`, `Operating System`, `Data Structure & Algorithm`, `L
 
 **Senior Back-end Development Engineer** \
 [**Netease**](https://www.163.com) • 2022/01/04 - Now \
-Languages & Technologies: `Java`, `Python`, `gRPC`, `Graphql`, `Spring Boot`, `Spring Cloud`, `Redis`, `RabbitMQ` \
+Languages & Technologies: `Java`, `Python`, `gRPC`, `Graphql`, `Spring Boot`, `Spring Cloud`, `Redis`, `RabbitMQ`
 
 [<img align="left" height="80px" width="80px" alt="DiDi" src="./assets/didi.png" />](https://www.didiglobal.com)
 
 **Back-end Development Engineer** \
 [**DiDi**](https://www.didiglobal.com) • 2020/10/20 - 2021/12/27 \
-Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud`, `Redis` \
+Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud`, `Redis`
 
 [<img align="left" height="80px" width="80px" alt="GaoYang" src="./assets/gaoyang.png" />](http://www.19pay.com.cn)
 
 **Back-end Development Engineer** \
 [**Gaoyang Jiexun**](http://www.19pay.com.cn) • 2019/07/01 - 2020/10/15 \
-Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Nacos`, `Redis`, `MongoDB`, `RocketMQ`, `xxl-job`, `Sharding-JDBC` \
+Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Nacos`, `Redis`, `MongoDB`, `RocketMQ`, `xxl-job`, `Sharding-JDBC`
 
 ---
 <img align="right" height="160" src="https://count.getloli.com/get/@llnancy" alt="llnancy" />
