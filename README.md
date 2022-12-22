@@ -29,26 +29,23 @@ Skills: `Computer Network`, `Operating System`, `Data Structure & Algorithm`, `L
 
 ### ⛳ Work Experience
 
-[<img align="left" height="94px" width="94px" alt="Netease" src="./assets/netease.png" />](https://www.163.com)
+[<img align="left" height="80px" width="80px" alt="Netease" src="./assets/netease.png" />](https://www.163.com)
 
 **Senior Back-end Development Engineer** \
 [**Netease**](https://www.163.com) • 2022/01/04 - Now \
 Languages & Technologies: `Java`, `Python`, `gRPC`, `Graphql`, `Spring Boot`, `Spring Cloud`, `Redis`, `RabbitMQ` \
-<br />
 
-[<img align="left" height="94px" width="94px" alt="DiDi" src="./assets/didi.png" />](https://www.didiglobal.com)
+[<img align="left" height="80px" width="80px" alt="DiDi" src="./assets/didi.png" />](https://www.didiglobal.com)
 
 **Back-end Development Engineer** \
 [**DiDi**](https://www.didiglobal.com) • 2020/10/20 - 2021/12/27 \
 Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud`, `Redis` \
-<br />
 
-[<img align="left" height="94px" width="94px" alt="GaoYang" src="./assets/gaoyang.png" />](http://www.19pay.com.cn)
+[<img align="left" height="80px" width="80px" alt="GaoYang" src="./assets/gaoyang.png" />](http://www.19pay.com.cn)
 
 **Back-end Development Engineer** \
 [**Gaoyang Jiexun**](http://www.19pay.com.cn) • 2019/07/01 - 2020/10/15 \
 Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Nacos`, `Redis`, `MongoDB`, `RocketMQ`, `xxl-job`, `Sharding-JDBC` \
-<br />
 
 ---
 <img align="right" height="160" src="https://count.getloli.com/get/@llnancy" alt="llnancy" />
