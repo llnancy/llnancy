@@ -33,12 +33,14 @@ Skills: `Computer Network`, `Operating System`, `Data Structure & Algorithm`, `L
 **Senior Back-end Development Engineer** \
 [**Netease**](https://www.163.com) • 2022/01/04 - Now \
 Languages & Technologies: `Java`, `Python`, `gRPC`, `Graphql`, `Spring Boot`, `Spring Cloud`, `Redis`, `RabbitMQ`
+<br />
 
 [<img align="left" height="80px" width="80px" alt="DiDi" src="./assets/didi.png" />](https://www.didiglobal.com)
 
 **Back-end Development Engineer** \
 [**DiDi**](https://www.didiglobal.com) • 2020/10/20 - 2021/12/27 \
 Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud`, `Redis`
+<br />
 
 [<img align="left" height="80px" width="80px" alt="GaoYang" src="./assets/gaoyang.png" />](http://www.19pay.com.cn)
 
