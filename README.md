@@ -51,7 +51,7 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 ---
 <img align="right" height="160" src="https://count.getloli.com/get/@llnancy" alt="llnancy" />
 
-**Languages and Frameworks**
+**Languages and Skills**
 
 [![](https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/iPhone-13-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
