@@ -131,8 +131,8 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
 🌞 早晨     67 commits  █▋░░░░░░░░░░░░░░░░░░░   8.0%
-🌆 白天    184 commits  ████▌░░░░░░░░░░░░░░░░  21.9%
-🌃 晚上    475 commits  ███████████▉░░░░░░░░░  56.6%
+🌆 白天    183 commits  ████▌░░░░░░░░░░░░░░░░  21.8%
+🌃 晚上    475 commits  ███████████▉░░░░░░░░░  56.7%
 🌙 深夜    113 commits  ██▊░░░░░░░░░░░░░░░░░░  13.5%
 ```
 <!-- productive-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨天你把我删了，我陷入了久久的沉思 。我想这其中一定有什么含义，你应该是欲擒故纵吧，嫌我不够爱你。突然觉得无理取闹的你变得更加可爱
-了，我会坚守我对你的爱的 你放心好啦！这么一想，突然对我俩的未来更有期望了呢。
+今天发工资了，我一个月工资3000，你猜我会给你多少，是不是觉得我会给你2500，自己留500吃饭？你想多了，我3000都给你，因
+为厂里包吃包住。
 
-                                                                                            2023-02-15 星期三
+                                                                                            2023-02-16 星期四
 ```
 <!-- dog-box end -->
 
