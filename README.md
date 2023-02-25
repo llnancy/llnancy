@@ -130,7 +130,7 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     66 commits  █▋░░░░░░░░░░░░░░░░░░░   8.0%
+🌞 早晨     65 commits  █▋░░░░░░░░░░░░░░░░░░░   7.9%
 🌆 白天    181 commits  ████▌░░░░░░░░░░░░░░░░  21.9%
 🌃 晚上    470 commits  ███████████▉░░░░░░░░░  56.8%
 🌙 深夜    111 commits  ██▊░░░░░░░░░░░░░░░░░░  13.4%
@@ -162,10 +162,9 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你说你情头是一个人用的，空间上锁是因为你不喜欢玩空间，情侣空间是和闺蜜开的，找你连麦时你说你在忙工作，每次聊天你都说在忙，你真是一
-个上进的好女孩，你真好，我好喜欢你！",
+今天我给你发消息，你回复我“**nmsl**”，我想了半天才知道你是在夸我，原来是**你美死了**，你嘴真甜，我爱你。
 
-                                                                                            2023-02-25 星期六
+                                                                                            2023-02-26 星期日
 ```
 <!-- dog-box end -->
 
