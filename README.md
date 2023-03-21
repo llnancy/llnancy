@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     72 commits  █▊░░░░░░░░░░░░░░░░░░░   8.9%
-🌆 白天    180 commits  ████▋░░░░░░░░░░░░░░░░  22.3%
-🌃 晚上    445 commits  ███████████▌░░░░░░░░░  55.1%
-🌙 深夜    110 commits  ██▊░░░░░░░░░░░░░░░░░░  13.6%
+🌞 早晨     72 commits  █▉░░░░░░░░░░░░░░░░░░░   9.0%
+🌆 白天    180 commits  ████▋░░░░░░░░░░░░░░░░  22.4%
+🌃 晚上    442 commits  ███████████▌░░░░░░░░░  55.0%
+🌙 深夜    110 commits  ██▊░░░░░░░░░░░░░░░░░░  13.7%
 ```
 <!-- productive-box end -->
 
@@ -162,9 +162,10 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你好像从来没有对我说过晚安，我在我们的聊天记录里搜索了关键字：“晚安”，你说过一次：**我早晚安排人弄死你**。
+刚从派出所出来，原因前几天14号情人节，我想送你礼物，我去偷东西的时候被抓了，我本来想反抗，警察说了一句老实点别动，我立刻就放弃了
+反抗，因为我记得你说过，你喜欢老实人。
 
-                                                                                            2023-03-21 星期二
+                                                                                            2023-03-22 星期三
 ```
 <!-- dog-box end -->
 
