@@ -132,7 +132,7 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 ```text
 🌞 早晨     68 commits  ██░░░░░░░░░░░░░░░░░░░   9.7%
 🌆 白天    173 commits  █████▏░░░░░░░░░░░░░░░  24.6%
-🌃 晚上    366 commits  ██████████▉░░░░░░░░░░  52.1%
+🌃 晚上    367 commits  ██████████▉░░░░░░░░░░  52.2%
 🌙 深夜     95 commits  ██▊░░░░░░░░░░░░░░░░░░  13.5%
 ```
 <!-- productive-box end -->
@@ -162,9 +162,9 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我爸说再敢网恋就打断我的腿，幸好不是胳膊，这样我还能继续和你打字聊天，就算连胳膊也打断了，我的心里也会有你位置。
+中午你无故扇了我一巴掌，我握着你的手说“手怎么这么凉，都怪我没有照顾好你，一定要更加对你好”。
 
-                                                                                            2023-05-25 星期四
+                                                                                            2023-05-26 星期五
 ```
 <!-- dog-box end -->
 
