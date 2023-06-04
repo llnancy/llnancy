@@ -131,9 +131,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
 🌞 早晨     68 commits  █▉░░░░░░░░░░░░░░░░░░░   9.4%
-🌆 白天    175 commits  █████░░░░░░░░░░░░░░░░  24.3%
-🌃 晚上    381 commits  ███████████░░░░░░░░░░  52.8%
-🌙 深夜     97 commits  ██▊░░░░░░░░░░░░░░░░░░  13.5%
+🌆 白天    175 commits  █████░░░░░░░░░░░░░░░░  24.2%
+🌃 晚上    384 commits  ███████████▏░░░░░░░░░  53.0%
+🌙 深夜     97 commits  ██▊░░░░░░░░░░░░░░░░░░  13.4%
 ```
 <!-- productive-box end -->
 
@@ -162,10 +162,10 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天把你的备注改成了「**对方正在输入...**」，这样我就知道你不是不想回我，刚又给你发了消息，看到你在思考怎么回我，我就知道你
-和我一样，心里有我。
+你想我了吧？可以回我消息了吗？我买了万通筋骨贴 你运动一个晚上腰很疼吧？今晚早点回家 我炖了排骨汤，累了一个晚上吧 没事我永远在家
+等你
 
-                                                                                            2023-06-04 星期日
+                                                                                            2023-06-05 星期一
 ```
 <!-- dog-box end -->
 
