@@ -131,9 +131,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
 🌞 早晨     74 commits  █▉░░░░░░░░░░░░░░░░░░░   9.4%
-🌆 白天    194 commits  █████▏░░░░░░░░░░░░░░░  24.6%
+🌆 白天    195 commits  █████▏░░░░░░░░░░░░░░░  24.7%
 🌃 晚上    424 commits  ███████████▎░░░░░░░░░  53.7%
-🌙 深夜     97 commits  ██▌░░░░░░░░░░░░░░░░░░  12.3%
+🌙 深夜     96 commits  ██▌░░░░░░░░░░░░░░░░░░  12.2%
 ```
 <!-- productive-box end -->
 
@@ -162,10 +162,10 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨天晚上也好冷，本来以为街上没人，结果刚刚偷电动车的时候被抓了，本来想反抗，但警察说了一句老实点别动，我立刻就放弃了抵抗，因为我记
-得你说过，你喜欢老实人。
+最近我暗恋的女生每天都和不同的男生约会，我想总有一天会轮到我，我问她什么时候能见见我？她说**下辈子吧**。她真好，下辈子还要和我
+在一起。
 
-                                                                                            2023-07-10 星期一
+                                                                                            2023-07-11 星期二
 ```
 <!-- dog-box end -->
 
