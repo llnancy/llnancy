@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     81 commits  ██░░░░░░░░░░░░░░░░░░░  10.1%
-🌆 白天    198 commits  █████▏░░░░░░░░░░░░░░░  24.7%
-🌃 晚上    427 commits  ███████████▏░░░░░░░░░  53.2%
-🌙 深夜     97 commits  ██▌░░░░░░░░░░░░░░░░░░  12.1%
+🌞 早晨     85 commits  ██▏░░░░░░░░░░░░░░░░░░  10.4%
+🌆 白天    205 commits  █████▎░░░░░░░░░░░░░░░  25.2%
+🌃 晚上    428 commits  ███████████░░░░░░░░░░  52.5%
+🌙 深夜     97 commits  ██▍░░░░░░░░░░░░░░░░░░  11.9%
 ```
 <!-- productive-box end -->
 
@@ -162,9 +162,10 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你从来没说过爱我，聊天记录搜索了一下“爱”，唯一的一条是：你好像乡村爱情里的刘能啊。
+在保安亭内看完了最新一集的梨泰院，曾经多么倔强的朴世路因为伊瑞给张大熙跪下了，亭外的树也许感受到了我的悲伤，枯了，我连树都保护不了
+，怎么保护你，或许保安才是真的需要被保护的吧。我难受，我想你。over
 
-                                                                                            2023-10-02 星期一
+                                                                                            2023-10-03 星期二
 ```
 <!-- dog-box end -->
 
