@@ -131,8 +131,8 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
 🌞 早晨     85 commits  ██▏░░░░░░░░░░░░░░░░░░  10.4%
-🌆 白天    205 commits  █████▎░░░░░░░░░░░░░░░  25.2%
-🌃 晚上    428 commits  ███████████░░░░░░░░░░  52.5%
+🌆 白天    205 commits  █████▎░░░░░░░░░░░░░░░  25.1%
+🌃 晚上    429 commits  ███████████░░░░░░░░░░  52.6%
 🌙 深夜     97 commits  ██▍░░░░░░░░░░░░░░░░░░  11.9%
 ```
 <!-- productive-box end -->
@@ -143,10 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
+🥇 圣山 - LamaMa...			0次    
+🥈 哪里都是你 - 队长			0次    
+🥉 凄美地 - 郭顶				0次    
+🏅 回不去的懵懂 - Zy			0次    
+🏅 想你时风起 - 单依纯			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -162,10 +163,11 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨天就为你充了710点卷，虽然知道你不会玩不知去向，但你说好看，你刚才说小号想要还想要一个，爱你的我还是满心欢喜的把剩下的100元
-伙食费又给你充了710，然后看到你小号并没有买，而是你送给了你的一个弟弟，你对弟弟真好，好有爱心，我感觉对你陷得很深了。
+明天就周六了我知道你不上班，但是我怕你睡懒觉不吃早饭饿坏自己，我早晨4点去菜市场买了新鲜活鸡给你炖鸡汤，阿姨给我用箱子装了起来，我
+骑上我280买的电动车哼着小调回家，心想你一定会被我感动的，箱子半路开了，鸡跑了，拐到了一个胡同里，凌晨4点的胡同还有穿超短裙和大
+叔聊天的美女，不禁感叹这个世界变了，她问我找什么，…………。对不起，我爱你
 
-                                                                                            2023-10-17 星期二
+                                                                                            2023-10-18 星期三
 ```
 <!-- dog-box end -->
 
