@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 可能 - 程响				0次    
-🥈 悬溺 - 葛东琪				0次    
-🥉 凄美地 - 郭顶				0次    
-🏅 予你 - 队长				0次    
-🏅 向云端 - 小霞/海洋...			0次    
+🥇 悬溺 - 葛东琪				0次    
+🥈 予你 - 队长				0次    
+🥉 武家坡2021 - 龍...			0次    
+🏅 罗生门（Follow）...			0次    
+🏅 把回忆拼好给你 - 王...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天你把我的vx拉黑了，这下我终于解放了！以前我总担心太多消息会打扰你，现在我终于不用顾忌，不管我怎么给你发消息，都不会让你不开心
-了。等我攒够5201314条我就拿给你看，你一定会震惊得说不出话然后哭着说会爱我一辈子。哈哈。
+今天的我排位输了好多把，我将这些事情分享给您，但是你一个字都没有讲，我在想你是不是在忙？我头痛欲裂，终于在我给你发了几十条消息之后
+，你终于回了我一个脑子是不是有病？原来你还是关心我的，看到这句话，我的脑子一下就不疼了，今天也是爱你的一天
 
-                                                                                            2023-10-26 星期四
+                                                                                            2023-10-27 星期五
 ```
 <!-- dog-box end -->
 
