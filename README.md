@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 追光者 (Live) ...			0次    
-🥈 我会等(女版) - 沁...			0次    
-🥉 我只能离开 - 刘思达...			0次    
-🏅 觉悟 (DJ戏腔版) ...			0次    
-🏅 我会等 - GRK陈梓...			0次    
+🥇 我会等(女版) - 沁...			0次    
+🥈 觉悟 (DJ戏腔版) ...			0次    
+🥉 我会等 - GRK陈梓...			0次    
+🏅 我会等 - 大黄				0次    
+🏅 觉悟 (戏腔版) - ...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-听说你朋友说今天出门了，我打扮成精神小伙来找你，没想到你竟然对我说“**给我爬，别过来**”我当场就哭了，原来真心真的会感动人，你
-一定是知道，穿豆豆鞋走路脚会很累，让我爬是因为这样不会累着脚，其实你是喜欢我的吧
+你昨天晚上又没会我的消息，在我孜孜不倦的骚扰下，你终于舍得回我了，你说“滚”，这其中一定有什么含义，我想了很久，滚是三点水，这代表
+你对我的思念也如滚滚流水一样汹涌，我感动哭了，不知道你现在在干嘛，我很想你。
 
-                                                                                            2023-10-31 星期二
+                                                                                            2023-11-01 星期三
 ```
 <!-- dog-box end -->
 
