@@ -131,9 +131,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
 🌞 早晨     87 commits  ██▏░░░░░░░░░░░░░░░░░░  10.6%
-🌆 白天    205 commits  █████▎░░░░░░░░░░░░░░░  25.1%
-🌃 晚上    429 commits  ███████████░░░░░░░░░░  52.4%
-🌙 深夜     97 commits  ██▍░░░░░░░░░░░░░░░░░░  11.9%
+🌆 白天    205 commits  █████▏░░░░░░░░░░░░░░░  24.9%
+🌃 晚上    434 commits  ███████████░░░░░░░░░░  52.7%
+🌙 深夜     97 commits  ██▍░░░░░░░░░░░░░░░░░░  11.8%
 ```
 <!-- productive-box end -->
 
@@ -143,11 +143,7 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 我会等(女版) - 沁...			0次    
-🥈 觉悟 (DJ戏腔版) ...			0次    
-🥉 我会等 - GRK陈梓...			0次    
-🏅 我会等 - 大黄				0次    
-🏅 觉悟 (戏腔版) - ...			0次    
+🥇 悬溺 - 葛东琪				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +159,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我给你打了几通电话，你终于接了。听到了你发出啊啊啊啊的声音，你说你肚子痛，我想你一定是很难受吧。电话还有个男的对你说“来换个姿势”
-，一定是在做理疗了。期待你早日康复，我好担心。
+昨天晚上也好冷，本来以为街上没人，结果刚刚偷电动车的时候被抓了，本来想反抗，但警察说了一句老实点别动，我立刻就放弃了抵抗，因为我记
+得你说过，你喜欢老实人。
 
-                                                                                            2023-11-02 星期四
+                                                                                            2023-11-03 星期五
 ```
 <!-- dog-box end -->
 
