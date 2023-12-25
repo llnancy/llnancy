@@ -143,11 +143,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 罗生门（Follow）...			0次    
-🥈 在你的身边 - 盛哲			0次    
-🥉 只要为你活一天 (伴奏...			0次    
-🏅 骨骼谢幕 - 裘德			0次    
-🏅 Pluggnsex -...			0次    
+Oh my God!
+~~~~~~
+我最近一周竟然没有听歌～
+~~~~~~
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +162,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天你把我的vx拉黑了，这下我终于解放了！以前我总担心太多消息会打扰你，现在我终于不用顾忌，不管我怎么给你发消息，都不会让你不开心
-了。等我攒够5201314条我就拿给你看，你一定会震惊得说不出话然后哭着说会爱我一辈子。哈哈。
+我存了半年的工资，给你买了一只lv，你对我说了一句你真好，我好开心。这是你第一次这么认可我，以前你都只对我说滚。今天晚上逛闲鱼，看
+到你把我送你的lv发布上去了。我想，你一定是在考验我，于是我用借呗里的钱把它买了下来，再次送给你，给你一个惊喜，我爱你。
 
-                                                                                            2023-12-23 星期六
+                                                                                            2023-12-26 星期二
 ```
 <!-- dog-box end -->
 
