@@ -143,10 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
+🥇 向云端 - 小霞/海洋...			0次    
+🥈 凄美地 - 郭顶				0次    
+🥉 虚拟 - 陈粒				0次    
+🏅 我们终将在音乐里相遇 ...			0次    
+🏅 阳光男孩阳光女孩202...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -162,10 +163,9 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我存了半年的工资，给你买了一只lv，你对我说了一句你真好，我好开心。这是你第一次这么认可我，以前你都只对我说滚。今天晚上逛闲鱼，看
-到你把我送你的lv发布上去了。我想，你一定是在考验我，于是我用借呗里的钱把它买了下来，再次送给你，给你一个惊喜，我爱你。
+其实我每月工资6000，但我只给你转2000，你以为我给你了全部。才不是，我一共舔了3个哪，我要舔的雨露均沾，才不会把你当成唯一。
 
-                                                                                            2023-12-26 星期二
+                                                                                            2023-12-27 星期三
 ```
 <!-- dog-box end -->
 
