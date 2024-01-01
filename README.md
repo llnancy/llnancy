@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 向云端 - 小霞/海洋...			0次    
-🥈 虚拟 - 陈粒				0次    
-🥉 幕后生活 - 海洋Bo			0次    
-🏅 Nothin' on ...			0次    
-🏅 如果呢 - 郑润泽			0次    
+🥇 魔术与歌曲：告白气球 ...			0次    
+🥈 刀马旦 - 周杰伦/李...			0次    
+🥉 哪里都是你 - 队长			0次    
+🏅 光年之外 - G.E....			0次    
+🏅 多远都要在一起 (Du...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-最近我暗恋的女生每天都和不同的男生约会，我想总有一天会轮到我，我问她什么时候能见见我？她说**下辈子吧**。她真好，下辈子还要和我
-在一起。
+晚上和你聊天，10点钟不到，你就说困了去睡觉了。现在凌晨1点钟，看到你给他的朋友圈点赞评论，约他明天去吃火锅。一定是你微信被盗了吧
+。
 
-                                                                                            2024-01-01 星期一
+                                                                                            2024-01-02 星期二
 ```
 <!-- dog-box end -->
 
