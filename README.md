@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     88 commits  ██▏░░░░░░░░░░░░░░░░░░  10.6%
-🌆 白天    206 commits  █████▏░░░░░░░░░░░░░░░  24.7%
-🌃 晚上    448 commits  ███████████▎░░░░░░░░░  53.7%
-🌙 深夜     92 commits  ██▎░░░░░░░░░░░░░░░░░░  11.0%
+🌞 早晨     75 commits  ██░░░░░░░░░░░░░░░░░░░   9.6%
+🌆 白天    205 commits  █████▍░░░░░░░░░░░░░░░  26.2%
+🌃 晚上    428 commits  ███████████▍░░░░░░░░░  54.7%
+🌙 深夜     75 commits  ██░░░░░░░░░░░░░░░░░░░   9.6%
 ```
 <!-- productive-box end -->
 
@@ -161,10 +161,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-12点队长过来准时交班，出去的车辆按喇叭我也没听到，只因我在监控中看到了穿睡衣出来倒垃圾的你，望你望的入神不由的傻笑了起来，队长过
-来骂我扣了我一天工资。我委屈，想抱你。你送的泡面真好吃。
+你好像从来没有对我说过晚安，我在我们的聊天记录里搜索了关键字：“晚安”，你说过一次：**我早晚安排人弄死你**。
 
-                                                                                            2024-01-04 星期四
+                                                                                            2024-01-05 星期五
 ```
 <!-- dog-box end -->
 
