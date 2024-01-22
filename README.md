@@ -144,6 +144,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 离别开出花 - 就是南...			0次    
+🥈 阳光男孩阳光女孩202...			0次    
+🥉 虚拟 - 陈粒				0次    
+🏅 慢冷·2024 - 谷...			0次    
+🏅 予你 - 队长				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -159,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天把你的备注改成了「**对方正在输入...**」，这样我就知道你不是不想回我，刚又给你发了消息，看到你在思考怎么回我，我就知道你
-和我一样，心里有我。
+你想我了吧？可以回我消息了吗？我买了万通筋骨贴 你运动一个晚上腰很疼吧？今晚早点回家 我炖了排骨汤，累了一个晚上吧 没事我永远在家
+等你
 
-                                                                                            2024-01-22 星期一
+                                                                                            2024-01-23 星期二
 ```
 <!-- dog-box end -->
 
