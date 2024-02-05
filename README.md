@@ -143,11 +143,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 新鸳鸯蝴蝶梦 - 黄安			0次    
-🥈 凄美地 - 郭顶				0次    
-🥉 牵丝戏 - Aki阿杰...			0次    
-🏅 伯虎说 - 张晓涵			0次    
-🏅 最美的瞬间 - 真瑞			0次    
+Oh my God!
+~~~~~~
+我最近一周竟然没有听歌～
+~~~~~~
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +162,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天你跟我说我很丑，让我不要骚扰你了。我听了很高兴，小说里的主角都像你这样，最开始表现的很厌恶，但最后总会被我的真心打动。你现在有
-多讨厌我，以后就会有多爱我。嘻嘻。
+刚才我找你说话，你回了一个滚，我陷入了沉思，你还是如此的关心我，知道我腿受伤了，让我这样走，好感动！看来你还是爱我的！
 
-                                                                                            2024-02-05 星期一
+                                                                                            2024-02-06 星期二
 ```
 <!-- dog-box end -->
 
