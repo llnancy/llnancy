@@ -132,7 +132,7 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 ```text
 🌞 早晨     61 commits  ██▎░░░░░░░░░░░░░░░░░░  11.2%
 🌆 白天    156 commits  ██████░░░░░░░░░░░░░░░  28.6%
-🌃 晚上    286 commits  ███████████░░░░░░░░░░  52.5%
+🌃 晚上    287 commits  ███████████░░░░░░░░░░  52.6%
 🌙 深夜     42 commits  █▌░░░░░░░░░░░░░░░░░░░   7.7%
 ```
 <!-- productive-box end -->
@@ -162,9 +162,10 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-中午你无故扇了我一巴掌，我握着你的手说“手怎么这么凉，都怪我没有照顾好你，一定要更加对你好”。
+听说你想要一套化妆品，我算了算，明天我去公司里面扫一天厕所，就可以拿到200块钱，再加上我上个月攒下来的零花钱，刚好给你买一套迪奥
+。
 
-                                                                                            2024-03-11 星期一
+                                                                                            2024-03-12 星期二
 ```
 <!-- dog-box end -->
 
