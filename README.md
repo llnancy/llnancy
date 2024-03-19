@@ -143,10 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
+🥇 盗将行 - 花粥/马雨...			0次    
+🥈 红昭愿 - 音阙诗听			0次    
+🥉 牵丝戏 - 银临/Ak...			0次    
+🏅 落花 - 刘思鉴				0次    
+🏅 浮光 - 周深				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -162,10 +163,10 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-疫情不能出门，现在是早上八点，你肯定饿了吧。我早起做好了早餐来到你小区。保安大哥不让进。我给你打了三个电话你终于接了有病啊，我还睡
-觉呢，你小区门口等着吧。啊，我高兴坏了。她终于愿意吃我做的早餐了，她让我等她，啊！啊！啊！
+今天把你的备注改成了「**对方正在输入...**」，这样我就知道你不是不想回我，刚又给你发了消息，看到你在思考怎么回我，我就知道你
+和我一样，心里有我。
 
-                                                                                            2024-03-19 星期二
+                                                                                            2024-03-20 星期三
 ```
 <!-- dog-box end -->
 
