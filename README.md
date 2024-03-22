@@ -143,10 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
+🥇 盗将行 - 花粥/马雨...			0次    
+🥈 红昭愿 - 音阙诗听			0次    
+🥉 牵丝戏 - 银临/Ak...			0次    
+🏅 落花 - 刘思鉴				0次    
+🏅 浮光 - 周深				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -162,9 +163,9 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你的头像是一个女孩子左手边牵着一条秋田犬，犬=狗，而**我是一条舔狗**。是不是代表你的小手在牵着我呢？
+今天表白被拒绝了，她对我说能不能脱下裤子撒泼尿照照自己，当我脱下裤子，她咽了口水，说我们可以试一下。
 
-                                                                                            2024-03-22 星期五
+                                                                                            2024-03-23 星期六
 ```
 <!-- dog-box end -->
 
