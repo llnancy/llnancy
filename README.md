@@ -128,12 +128,12 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <td valign="top" width="50%">
 
 <!-- productive-box start -->
-#### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
+#### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在日间工作 🐤</a>
 ```text
-🌞 早晨     40 commits  ██▍░░░░░░░░░░░░░░░░░░  11.8%
-🌆 白天    129 commits  ███████▉░░░░░░░░░░░░░  37.9%
-🌃 晚上    153 commits  █████████▍░░░░░░░░░░░  45.0%
-🌙 深夜     18 commits  █░░░░░░░░░░░░░░░░░░░░   5.3%
+🌞 早晨     40 commits  ██▌░░░░░░░░░░░░░░░░░░  12.2%
+🌆 白天    129 commits  ████████▎░░░░░░░░░░░░  39.3%
+🌃 晚上    141 commits  █████████░░░░░░░░░░░░  43.0%
+🌙 深夜     18 commits  █▏░░░░░░░░░░░░░░░░░░░   5.5%
 ```
 <!-- productive-box end -->
 
@@ -162,10 +162,11 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我坐在窗边给你发了99条消息，你终于肯回我了你说“**发你妈啊**”，我一下子就哭了，原来努力真的有用，你已经开始考虑想见我的妈妈
-了，你其实也是挺喜欢我的。
+难以言喻的下午。说不想你是假的，说爱你是真的，昨天他们骂我是你的舔狗，我不相信，因为我知道你肯定也是爱我的，你一定是在考验我对你的
+感情，只要我坚持下去你一定会被我的真诚所打动，！加油！不过我要批评你一下，昨晚你说去酒店跟人斗地主，我寻思两个人也玩不了呀，算了，
+不想了，毕竟打牌是赌博行为，不太好。
 
-                                                                                            2024-07-07 星期日
+                                                                                            2024-07-08 星期一
 ```
 <!-- dog-box end -->
 
