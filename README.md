@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在日间工作 🐤</a>
 ```text
-🌞 早晨     45 commits  ██▋░░░░░░░░░░░░░░░░░░  12.7%
-🌆 白天    135 commits  ████████░░░░░░░░░░░░░  38.2%
-🌃 晚上    154 commits  █████████▏░░░░░░░░░░░  43.6%
-🌙 深夜     19 commits  █▏░░░░░░░░░░░░░░░░░░░   5.4%
+🌞 早晨     55 commits  ██▋░░░░░░░░░░░░░░░░░░  12.9%
+🌆 白天    164 commits  ████████░░░░░░░░░░░░░  38.5%
+🌃 晚上    181 commits  ████████▉░░░░░░░░░░░░  42.5%
+🌙 深夜     26 commits  █▎░░░░░░░░░░░░░░░░░░░   6.1%
 ```
 <!-- productive-box end -->
 
@@ -162,10 +162,10 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天把你的备注改成了「**对方正在输入...**」，这样我就知道你不是不想回我，刚又给你发了消息，看到你在思考怎么回我，我就知道你
-和我一样，心里有我。
+你想我了吧？可以回我消息了吗？我买了万通筋骨贴 你运动一个晚上腰很疼吧？今晚早点回家 我炖了排骨汤，累了一个晚上吧 没事我永远在家
+等你
 
-                                                                                            2024-07-14 星期日
+                                                                                            2024-07-15 星期一
 ```
 <!-- dog-box end -->
 
