@@ -130,9 +130,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在日间工作 🐤</a>
 ```text
-🌞 早晨     53 commits  ██▌░░░░░░░░░░░░░░░░░░  12.4%
-🌆 白天    163 commits  ███████▉░░░░░░░░░░░░░  38.0%
-🌃 晚上    187 commits  █████████▏░░░░░░░░░░░  43.6%
+🌞 早晨     52 commits  ██▌░░░░░░░░░░░░░░░░░░  12.1%
+🌆 白天    163 commits  ███████▉░░░░░░░░░░░░░  38.1%
+🌃 晚上    187 commits  █████████▏░░░░░░░░░░░  43.7%
 🌙 深夜     26 commits  █▎░░░░░░░░░░░░░░░░░░░   6.1%
 ```
 <!-- productive-box end -->
@@ -163,9 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天你问我借了两千块钱，说要做个手术，你果然还是爱我的，不是我的孩子，都不要。
+今天下雨了，我去你公司接你下班。看见我你不耐烦的说：烦不烦啊，不要再找我了。一头冲进雨里就跑开了。我心里真高兴啊，你宁愿自己淋雨，
+都不愿让我也淋湿一点，你果然还是爱我的。
 
-                                                                                            2024-07-26 星期五
+                                                                                            2024-07-27 星期六
 ```
 <!-- dog-box end -->
 
