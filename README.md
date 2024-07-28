@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     52 commits  ██░░░░░░░░░░░░░░░░░░░  10.1%
-🌆 白天    175 commits  ███████░░░░░░░░░░░░░░  33.8%
-🌃 晚上    249 commits  ██████████░░░░░░░░░░░  48.2%
-🌙 深夜     41 commits  █▋░░░░░░░░░░░░░░░░░░░   7.9%
+🌞 早晨     52 commits  ██░░░░░░░░░░░░░░░░░░░   9.7%
+🌆 白天    175 commits  ██████▉░░░░░░░░░░░░░░  32.8%
+🌃 晚上    266 commits  ██████████▍░░░░░░░░░░  49.8%
+🌙 深夜     41 commits  █▌░░░░░░░░░░░░░░░░░░░   7.7%
 ```
 <!-- productive-box end -->
 
@@ -163,10 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天你跟我说我很丑，让我不要骚扰你了。我听了很高兴，小说里的主角都像你这样，最开始表现的很厌恶，但最后总会被我的真心打动。你现在有
-多讨厌我，以后就会有多爱我。嘻嘻。
+刚才我找你说话，你回了一个滚，我陷入了沉思，你还是如此的关心我，知道我腿受伤了，让我这样走，好感动！看来你还是爱我的！
 
-                                                                                            2024-07-28 星期日
+                                                                                            2024-07-29 星期一
 ```
 <!-- dog-box end -->
 
