@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 牵丝戏 - Aki阿杰...			0次    
-🥈 伯虎说 - 张曦匀（张...			0次    
-🥉 折风渡夜 (DJ名龙版...			0次    
-🏅 一笑江湖 - 闻人听書...			0次    
-🏅 盗墓笔记·十年人间 -...			0次    
+🥇 哪里都是你 - 队长			0次    
+🥈 牵丝戏 - Aki阿杰...			0次    
+🥉 伯虎说 - 张曦匀（张...			0次    
+🏅 最美的瞬间 - 真瑞			0次    
+🏅 折风渡夜 (DJ名龙版...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-晚上和你聊天，10点钟不到，你就说困了去睡觉了。现在凌晨1点钟，看到你给他的朋友圈点赞评论，约他明天去吃火锅。一定是你微信被盗了吧
-。
+我坐在窗边给你发了99条消息  你终于肯回我了 你说“发你妈啊”  我一下子就哭了 原来努力真的有用  你已经开始考虑想见我的妈妈
+了 你也是挺喜欢我的。
 
-                                                                                            2024-08-21 星期三
+                                                                                            2024-08-22 星期四
 ```
 <!-- dog-box end -->
 
