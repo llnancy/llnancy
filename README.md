@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 哪里都是你 - 队长			0次    
-🥈 牵丝戏 - Aki阿杰...			0次    
-🥉 伯虎说 - 张曦匀（张...			0次    
-🏅 最美的瞬间 - 真瑞			0次    
-🏅 折风渡夜 (DJ名龙版...			0次    
+🥇 欢喜就好 - 陈雷			0次    
+🥈 Everywhere ...			0次    
+🥉 消愁 - 毛不易				0次    
+🏅 美丽的神话Ⅰ - 成龙...			0次    
+🏅 不谓侠 - 萧忆情Al...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我坐在窗边给你发了99条消息  你终于肯回我了 你说“发你妈啊”  我一下子就哭了 原来努力真的有用  你已经开始考虑想见我的妈妈
-了 你也是挺喜欢我的。
+12点队长过来准时交班，出去的车辆按喇叭我也没听到，只因我在监控中看到了穿睡衣出来倒垃圾的你，望你望的入神不由的傻笑了起来，队长过
+来骂我扣了我一天工资。我委屈，想抱你。你送的泡面真好吃。
 
-                                                                                            2024-08-22 星期四
+                                                                                            2024-08-23 星期五
 ```
 <!-- dog-box end -->
 
