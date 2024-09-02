@@ -143,10 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
+🥇 若把你 - Kirst...			0次    
+🥈 余香 - 张小九				0次    
+🥉 大海 - 张雨生				0次    
+🏅 安和桥 - 宇西				0次    
+🏅 英雄的黎明 - 横山菁...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -162,10 +163,10 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-听说你想要一套化妆品，我算了算，明天我去公司里面扫一天厕所，就可以拿到200块钱，再加上我上个月攒下来的零花钱，刚好给你买一套迪奥
-。
+我坐在窗边给你发了99条消息，你终于肯回我了你说“**发你妈啊**”，我一下子就哭了，原来努力真的有用，你已经开始考虑想见我的妈妈
+了，你其实也是挺喜欢我的。
 
-                                                                                            2024-09-02 星期一
+                                                                                            2024-09-03 星期二
 ```
 <!-- dog-box end -->
 
