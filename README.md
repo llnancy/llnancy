@@ -131,8 +131,8 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
 🌞 早晨     55 commits  ██░░░░░░░░░░░░░░░░░░░  10.1%
-🌆 白天    179 commits  ██████▉░░░░░░░░░░░░░░  32.9%
-🌃 晚上    269 commits  ██████████▍░░░░░░░░░░  49.4%
+🌆 白天    181 commits  ██████▉░░░░░░░░░░░░░░  33.2%
+🌃 晚上    269 commits  ██████████▎░░░░░░░░░░  49.3%
 🌙 深夜     41 commits  █▌░░░░░░░░░░░░░░░░░░░   7.5%
 ```
 <!-- productive-box end -->
@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 若把你 - Kirst...			0次    
-🥈 余香 - 张小九				0次    
+🥇 侧脸 - 于果				0次    
+🥈 水手 - 郑智化				0次    
 🥉 万里长城永不倒 - 叶...			0次    
 🏅 还是分开 - 张叶蕾			0次    
-🏅 大海 - 张雨生				0次    
+🏅 说唱脸谱 - 谢津			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-疫情不能出门，现在是早上八点，你肯定饿了吧。我早起做好了早餐来到你小区。保安大哥不让进。我给你打了三个电话你终于接了有病啊，我还睡
-觉呢，你小区门口等着吧。啊，我高兴坏了。她终于愿意吃我做的早餐了，她让我等她，啊！啊！啊！
+今天把你的备注改成了「**对方正在输入...**」，这样我就知道你不是不想回我，刚又给你发了消息，看到你在思考怎么回我，我就知道你
+和我一样，心里有我。
 
-                                                                                            2024-09-09 星期一
+                                                                                            2024-09-10 星期二
 ```
 <!-- dog-box end -->
 
