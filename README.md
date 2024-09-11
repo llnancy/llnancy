@@ -144,10 +144,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 侧脸 - 于果				0次    
-🥈 壁上观 - 云扶				0次    
-🥉 黄昏 - 周传雄				0次    
-🏅 后来 - 刘若英				0次    
-🏅 第三人称 - 买辣椒也...			0次    
+🥈 我们的时光 - 赵雷			0次    
+🥉 他不懂 - 张杰				0次    
+🏅 无名的人 - 烟(许佳...			0次    
+🏅 秒针 - 梨花落				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你想我了吧？可以回我消息了吗？我买了万通筋骨贴 你运动一个晚上腰很疼吧？今晚早点回家 我炖了排骨汤，累了一个晚上吧 没事我永远在家
-等你
+你的头像是一个女孩子左手边牵着一条秋田犬，犬=狗，而**我是一条舔狗**。是不是代表你的小手在牵着我呢？
 
-                                                                                            2024-09-11 星期三
+                                                                                            2024-09-12 星期四
 ```
 <!-- dog-box end -->
 
