@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     55 commits  ██░░░░░░░░░░░░░░░░░░░  10.0%
-🌆 白天    181 commits  ██████▉░░░░░░░░░░░░░░  32.8%
-🌃 晚上    269 commits  ██████████▏░░░░░░░░░░  48.7%
-🌙 深夜     47 commits  █▊░░░░░░░░░░░░░░░░░░░   8.5%
+🌞 早晨     55 commits  ██░░░░░░░░░░░░░░░░░░░   9.9%
+🌆 白天    181 commits  ██████▊░░░░░░░░░░░░░░  32.6%
+🌃 晚上    271 commits  ██████████▎░░░░░░░░░░  48.8%
+🌙 深夜     48 commits  █▊░░░░░░░░░░░░░░░░░░░   8.6%
 ```
 <!-- productive-box end -->
 
@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 侧脸 - 于果				0次    
-🥈 我们的时光 - 赵雷			0次    
-🥉 他不懂 - 张杰				0次    
-🏅 无名的人 - 烟(许佳...			0次    
-🏅 秒针 - 梨花落				0次    
+🥇 我们的时光 - 赵雷			0次    
+🥈 赤伶 - 李玉刚				0次    
+🥉 侧脸 - 于果				0次    
+🏅 黄昏 - 周传雄				0次    
+🏅 后来 - 刘若英				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你从来没说过爱我，聊天记录搜索了一下“爱”，唯一的一条是：你好像乡村爱情里的刘能啊。
+在保安亭内看完了最新一集的梨泰院，曾经多么倔强的朴世路因为伊瑞给张大熙跪下了，亭外的树也许感受到了我的悲伤，枯了，我连树都保护不了
+，怎么保护你，或许保安才是真的需要被保护的吧。我难受，我想你。over
 
-                                                                                            2024-09-14 星期六
+                                                                                            2024-09-15 星期日
 ```
 <!-- dog-box end -->
 
