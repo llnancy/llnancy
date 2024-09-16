@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     55 commits  ██░░░░░░░░░░░░░░░░░░░   9.9%
-🌆 白天    181 commits  ██████▊░░░░░░░░░░░░░░  32.6%
-🌃 晚上    272 commits  ██████████▎░░░░░░░░░░  48.9%
-🌙 深夜     48 commits  █▊░░░░░░░░░░░░░░░░░░░   8.6%
+🌞 早晨     55 commits  ██░░░░░░░░░░░░░░░░░░░   9.7%
+🌆 白天    183 commits  ██████▊░░░░░░░░░░░░░░  32.3%
+🌃 晚上    273 commits  ██████████░░░░░░░░░░░  48.1%
+🌙 深夜     56 commits  ██░░░░░░░░░░░░░░░░░░░   9.9%
 ```
 <!-- productive-box end -->
 
@@ -163,11 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨晚你和朋友大佬一晚上游戏，你破天荒的给我看了你的战绩，虽然我看不懂但我相信你一定是最厉害的，最棒的！我给你发了好多消息夸你，告诉
-你我多崇拜你，你回了我一句：啥b，我翻来覆去思考这是什么意思？sh-a傻，噢你的意思是说我傻，那b就是baby的意思了吧，原来你是
-在叫我傻宝，这么宠溺的语气，我竟一时不相信，其实你也是喜欢我的对吧
+昨天你把我删了，我陷入了久久的沉思 。我想这其中一定有什么含义，你应该是欲擒故纵吧，嫌我不够爱你。突然觉得无理取闹的你变得更加可爱
+了，我会坚守我对你的爱的 你放心好啦！这么一想，突然对我俩的未来更有期望了呢。
 
-                                                                                            2024-09-16 星期一
+                                                                                            2024-09-17 星期二
 ```
 <!-- dog-box end -->
 
