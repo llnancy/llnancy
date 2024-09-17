@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 我们的时光 - 赵雷			0次    
-🥈 赤伶 - 李玉刚				0次    
-🥉 侧脸 - 于果				0次    
-🏅 黄昏 - 周传雄				0次    
-🏅 后来 - 刘若英				0次    
+🥇 富士山下 (2007 ...			0次    
+🥈 像我这样的人 - 毛不...			0次    
+🥉 谁 (Live版) -...			0次    
+🏅 我的名字 - 焦迈奇			0次    
+🏅 关不上的窗 - 周传雄			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨天你把我删了，我陷入了久久的沉思 。我想这其中一定有什么含义，你应该是欲擒故纵吧，嫌我不够爱你。突然觉得无理取闹的你变得更加可爱
-了，我会坚守我对你的爱的 你放心好啦！这么一想，突然对我俩的未来更有期望了呢。
+今天发工资了，我一个月工资3000，你猜我会给你多少，是不是觉得我会给你2500，自己留500吃饭？你想多了，我3000都给你，因
+为厂里包吃包住。
 
-                                                                                            2024-09-17 星期二
+                                                                                            2024-09-18 星期三
 ```
 <!-- dog-box end -->
 
