@@ -131,8 +131,8 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
 🌞 早晨     55 commits  ██░░░░░░░░░░░░░░░░░░░   9.6%
-🌆 白天    183 commits  ██████▋░░░░░░░░░░░░░░  32.1%
-🌃 晚上    274 commits  ██████████░░░░░░░░░░░  48.1%
+🌆 白天    184 commits  ██████▊░░░░░░░░░░░░░░  32.3%
+🌃 晚上    273 commits  ██████████░░░░░░░░░░░  47.9%
 🌙 深夜     58 commits  ██▏░░░░░░░░░░░░░░░░░░  10.2%
 ```
 <!-- productive-box end -->
@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 像我这样的人 - 毛不...			0次    
-🥈 谁 (Live版) -...			0次    
-🥉 我的名字 - 焦迈奇			0次    
-🏅 失恋阵线联盟 - 草蜢			0次    
-🏅 一千个伤心的理由 - ...			0次    
+🥇 失恋阵线联盟 - 草蜢			0次    
+🥈 一千个伤心的理由 - ...			0次    
+🥉 星月神话 - 金莎			0次    
+🏅 讲不出再见 - 谭咏麟			0次    
+🏅 故乡 - 许巍				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,11 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨晚你和朋友打了一晚上游戏，你破天荒的给我看了战绩，虽然我看不懂但是我相信你一定是最厉害的，最棒的，我给你发了好多消息夸你，告诉你
-我多崇拜你，你回了我一句“傻b”，我翻来覆去思考这是什么意思，sh-a傻，噢你是说我傻，那b就是baby的意思了吧，原来你是在叫我
-傻宝，这么宠溺的语气，我竟一时不敢相信，其实你也是喜欢我的对吧
+今天我还是照常给你发消息，汇报日常工作，你终于回了我四个字：“嗯嗯，好的”你开始愿意敷衍我了，我太感动了受宠若惊。我愿意天天给你发
+消息。就算你天天骂我，我也不觉得烦。
 
-                                                                                            2024-09-20 星期五
+                                                                                            2024-09-21 星期六
 ```
 <!-- dog-box end -->
 
