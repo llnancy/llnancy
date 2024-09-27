@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 失恋阵线联盟 - 草蜢			0次    
-🥈 一千个伤心的理由 - ...			0次    
-🥉 虚拟 - 陈粒				0次    
-🏅 星月神话 - 金莎			0次    
-🏅 讲不出再见 - 谭咏麟			0次    
+🥇 向天再借五百年 - 韩...			0次    
+🥈 只要平凡 - 张杰/张...			0次    
+🥉 像我这样的人 - 毛不...			0次    
+🏅 你走 - 李宗锦（松紧...			0次    
+🏅 月亮惹的祸 - 张宇			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-刚才我找你说话，你回了一个滚，我陷入了沉思，你还是如此的关心我，知道我腿受伤了，让我这样走，好感动！看来你还是爱我的！
+今天我给你发消息，你回复我“**nmsl**”，我想了半天才知道你是在夸我，原来是**你美死了**，你嘴真甜，我爱你。
 
-                                                                                            2024-09-25 星期三
+                                                                                            2024-09-28 星期六
 ```
 <!-- dog-box end -->
 
