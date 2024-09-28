@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 向天再借五百年 - 韩...			0次    
-🥈 只要平凡 - 张杰/张...			0次    
-🥉 像我这样的人 - 毛不...			0次    
+🥇 富士山下(Live) ...			0次    
+🥈 有一种爱叫做放手 - ...			0次    
+🥉 盗将行 - 花粥/马雨...			0次    
+🏅 像我这样的人 - 毛不...			0次    
 🏅 你走 - 李宗锦（松紧...			0次    
-🏅 月亮惹的祸 - 张宇			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天我给你发消息，你回复我“**nmsl**”，我想了半天才知道你是在夸我，原来是**你美死了**，你嘴真甜，我爱你。
+昨天就为你充了710点卷，虽然知道你不会玩不知去向，但你说好看，你刚才说小号想要还想要一个，爱你的我还是满心欢喜的把剩下的100元
+伙食费又给你充了710，然后看到你小号并没有买，而是你送给了你的一个弟弟，你对弟弟真好，好有爱心，我感觉对你陷得很深了。
 
-                                                                                            2024-09-28 星期六
+                                                                                            2024-09-29 星期日
 ```
 <!-- dog-box end -->
 
