@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 琵琶行 - 奇然/沈谧...			0次    
-🥈 贝多芬的悲伤 - 萧风			0次    
-🥉 爱我就跟我走 - 王鹤...			0次    
-🏅 太多Ⅱ - 陈冠蒲			0次    
-🏅 最爱 - 周慧敏				0次    
+🥇 太多Ⅱ - 陈冠蒲			0次    
+🥈 让一切随风 - 钟镇涛			0次    
+🥉 男儿当自强 - 林子祥			0次    
+🏅 沉默是金 - 张国荣			0次    
+🏅 等什么君 - 春庭雪 ...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你已经好几分钟没回我信息了，在我孜孜不倦的骚扰下你终于肯回我了 你说滚 这其中一定有什么含义 我想了很久 滚是三点水这代表着你对我
-的思念也如滚滚流水一样汹涌 我感动哭了 不知道你现在在干嘛 我很想你 "。
+今天你把我的vx拉黑了，这下我终于解放了！以前我总担心太多消息会打扰你，现在我终于不用顾忌，不管我怎么给你发消息，都不会让你不开心
+了。等我攒够5201314条我就拿给你看，你一定会震惊得说不出话然后哭着说会爱我一辈子。哈哈。
 
-                                                                                            2024-10-07 星期一
+                                                                                            2024-10-08 星期二
 ```
 <!-- dog-box end -->
 
