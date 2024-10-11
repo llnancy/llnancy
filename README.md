@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 太多Ⅱ - 陈冠蒲			0次    
-🥈 让一切随风 - 钟镇涛			0次    
-🥉 后来 - 刘若英				0次    
-🏅 男儿当自强 - 林子祥			0次    
-🏅 The truth t...			0次    
+🥇 上海滩 - 叶丽仪			0次    
+🥈 Amani - Bey...			0次    
+🥉 过火 - 张信哲				0次    
+🏅 红日 - 李克勤				0次    
+🏅 秋风 - 四熹丸子			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我存了半年的工资，给你买了一只lv，你对我说了一句你真好，我好开心。这是你第一次这么认可我，以前你都只对我说滚。今天晚上逛闲鱼，看
-到你把我送你的lv发布上去了。我想，你一定是在考验我，于是我用借呗里的钱把它买了下来，再次送给你，给你一个惊喜，我爱你。
+其实我每月工资6000，但我只给你转2000，你以为我给你了全部。才不是，我一共舔了3个哪，我要舔的雨露均沾，才不会把你当成唯一。
 
-                                                                                            2024-10-11 星期五
+                                                                                            2024-10-12 星期六
 ```
 <!-- dog-box end -->
 
