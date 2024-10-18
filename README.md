@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 秋风 - 四熹丸子			0次    
-🥈 上海滩 - 叶丽仪			0次    
-🥉 Amani - Bey...			0次    
-🏅 过火 - 张信哲				0次    
-🏅 红日 - 李克勤				0次    
+🥇 好心分手 - 卢巧音			0次    
+🥈 世间始终你好 - 罗文...			0次    
+🥉 太多 - 陈冠蒲				0次    
+🏅 有没有人告诉你 - 陈...			0次    
+🏅 单车 (Live) -...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-晚上和你聊天，10点钟不到，你就说困了去睡觉了。现在凌晨1点钟，看到你给他的朋友圈点赞评论，约他明天去吃火锅。一定是你微信被盗了吧
-。
+我坐在窗边给你发了99条消息  你终于肯回我了 你说“发你妈啊”  我一下子就哭了 原来努力真的有用  你已经开始考虑想见我的妈妈
+了 你也是挺喜欢我的。
 
-                                                                                            2024-10-18 星期五
+                                                                                            2024-10-19 星期六
 ```
 <!-- dog-box end -->
 
