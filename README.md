@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 好心分手 - 卢巧音			0次    
-🥈 世间始终你好 - 罗文...			0次    
-🥉 太多 - 陈冠蒲				0次    
-🏅 有没有人告诉你 - 陈...			0次    
-🏅 单车 (Live) -...			0次    
+🥇 追光者 - 岑宁儿			0次    
+🥈 容易受伤的女人 - 王...			0次    
+🥉 情人知己 - 叶蒨文			0次    
+🏅 爱你 - CashMo...			0次    
+🏅 让一切随风 - 钟镇涛			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我坐在窗边给你发了99条消息  你终于肯回我了 你说“发你妈啊”  我一下子就哭了 原来努力真的有用  你已经开始考虑想见我的妈妈
-了 你也是挺喜欢我的。
+12点队长过来准时交班，出去的车辆按喇叭我也没听到，只因我在监控中看到了穿睡衣出来倒垃圾的你，望你望的入神不由的傻笑了起来，队长过
+来骂我扣了我一天工资。我委屈，想抱你。你送的泡面真好吃。
 
-                                                                                            2024-10-19 星期六
+                                                                                            2024-10-20 星期日
 ```
 <!-- dog-box end -->
 
