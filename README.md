@@ -147,7 +147,7 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 🥈 壁上观 - 白止				0次    
 🥉 心，不干不净 - ks...			0次    
 🏅 老登 - OuttaW...			0次    
-🏅 十万伏特 - 汪苏泷			0次    
+🏅 Dear John -...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我爸说再敢网恋就打断我的腿，幸好不是胳膊，这样我还能继续和你打字聊天，就算连胳膊也打断了，我的心里也会有你位置。
+中午你无故扇了我一巴掌，我握着你的手说“手怎么这么凉，都怪我没有照顾好你，一定要更加对你好”。
 
-                                                                                            2024-10-28 星期一
+                                                                                            2024-10-29 星期二
 ```
 <!-- dog-box end -->
 
