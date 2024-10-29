@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 放不下的她 - 刘昱欢			0次    
-🥈 壁上观 - 白止				0次    
-🥉 心，不干不净 - ks...			0次    
-🏅 老登 - OuttaW...			0次    
-🏅 Dear John -...			0次    
+🥇 老登 - OuttaW...			0次    
+🥈 最佳损友(To My ...			0次    
+🥉 好久不见 - 陈奕迅			0次    
+🏅 为你我受冷风吹 - 林...			0次    
+🏅 我爱的人 - 陈小春			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-中午你无故扇了我一巴掌，我握着你的手说“手怎么这么凉，都怪我没有照顾好你，一定要更加对你好”。
+听说你想要一套化妆品，我算了算，明天我去公司里面扫一天厕所，就可以拿到200块钱，再加上我上个月攒下来的零花钱，刚好给你买一套迪奥
+。
 
-                                                                                            2024-10-29 星期二
+                                                                                            2024-10-30 星期三
 ```
 <!-- dog-box end -->
 
