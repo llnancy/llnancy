@@ -147,7 +147,7 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 🥈 风驶过的声音是 - 海...			0次    
 🥉 好久不见 - 陈奕迅			0次    
 🏅 为你我受冷风吹 - 林...			0次    
-🏅 我爱的人 - 陈小春			0次    
+🏅 忘了你忘了我 - 王杰			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我坐在窗边给你发了99条消息，你终于肯回我了你说“**发你妈啊**”，我一下子就哭了，原来努力真的有用，你已经开始考虑想见我的妈妈
-了，你其实也是挺喜欢我的。
+难以言喻的下午。说不想你是假的，说爱你是真的，昨天他们骂我是你的舔狗，我不相信，因为我知道你肯定也是爱我的，你一定是在考验我对你的
+感情，只要我坚持下去你一定会被我的真诚所打动，！加油！不过我要批评你一下，昨晚你说去酒店跟人斗地主，我寻思两个人也玩不了呀，算了，
+不想了，毕竟打牌是赌博行为，不太好。
 
-                                                                                            2024-10-31 星期四
+                                                                                            2024-11-01 星期五
 ```
 <!-- dog-box end -->
 
