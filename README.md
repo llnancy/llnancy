@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 风驶过的声音是 - 海...			0次    
-🥈 i miss you ...			0次    
-🥉 为你我受冷风吹 - 林...			0次    
-🏅 忘了你忘了我 - 王杰			0次    
-🏅 记事本 - 陈慧琳			0次    
+🥇 i miss you ...			0次    
+🥈 为你我受冷风吹 - 林...			0次    
+🥉 忘了你忘了我 - 王杰			0次    
+🏅 野孩子 - 杨千嬅			0次    
+🏅 他不爱我 - 莫文蔚			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天在楼上窗户上看见你和他在公园里接吻，我看见哭了出来，并打电话给你，想问问你为什么？但你说怎么了，声音是那么好听。于是我说“**
-以后你和他接吻的时候，能不能用我送给你的口红啊？**”
+今天我观战了一天你和别人打游戏，你们玩的很开心，我给你发了200多条消息，你说没流量就不回了，晚上发说说没有人爱你，我连滚带爬评论
+了句有我在。你把我拉黑了，我给你打电话也无人接听。对不起我不该打扰你。我求求你再给我一次当好友的机会吧！
 
-                                                                                            2024-11-02 星期六
+                                                                                            2024-11-03 星期日
 ```
 <!-- dog-box end -->
 
