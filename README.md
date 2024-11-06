@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 i miss you ...			0次    
-🥈 忘了你忘了我 - 王杰			0次    
-🥉 野孩子 - 杨千嬅			0次    
-🏅 他不爱我 - 莫文蔚			0次    
-🏅 囚鸟 - 彭羚				0次    
+🥇 有多少爱可以重来 - ...			0次    
+🥈 i miss you ...			0次    
+🥉 不在 - 韩安旭				0次    
+🏅 忘了你忘了我 - 王杰			0次    
+🏅 野孩子 - 杨千嬅			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-疫情不能出门，现在是早上八点，你肯定饿了吧。我早起做好了早餐来到你小区。保安大哥不让进。我给你打了三个电话你终于接了有病啊，我还睡
-觉呢，你小区门口等着吧。啊，我高兴坏了。她终于愿意吃我做的早餐了，她让我等她，啊！啊！啊！
+今天把你的备注改成了「**对方正在输入...**」，这样我就知道你不是不想回我，刚又给你发了消息，看到你在思考怎么回我，我就知道你
+和我一样，心里有我。
 
-                                                                                            2024-11-06 星期三
+                                                                                            2024-11-07 星期四
 ```
 <!-- dog-box end -->
 
