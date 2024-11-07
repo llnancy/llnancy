@@ -146,8 +146,8 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 🥇 有多少爱可以重来 - ...			0次    
 🥈 i miss you ...			0次    
 🥉 不在 - 韩安旭				0次    
-🏅 忘了你忘了我 - 王杰			0次    
 🏅 野孩子 - 杨千嬅			0次    
+🏅 他不爱我 - 莫文蔚			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天把你的备注改成了「**对方正在输入...**」，这样我就知道你不是不想回我，刚又给你发了消息，看到你在思考怎么回我，我就知道你
-和我一样，心里有我。
+你想我了吧？可以回我消息了吗？我买了万通筋骨贴 你运动一个晚上腰很疼吧？今晚早点回家 我炖了排骨汤，累了一个晚上吧 没事我永远在家
+等你
 
-                                                                                            2024-11-07 星期四
+                                                                                            2024-11-08 星期五
 ```
 <!-- dog-box end -->
 
