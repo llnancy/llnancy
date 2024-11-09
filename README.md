@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 可惜我是水瓶座 - 杨...			0次    
-🥈 有多少爱可以重来 - ...			0次    
-🥉 不在 - 韩安旭				0次    
-🏅 野孩子 - 杨千嬅			0次    
-🏅 飘雪 - 陈慧娴				0次    
+🥇 还是会想你 - 林达浪...			0次    
+🥈 罗生门（Follow）...			0次    
+🥉 把回忆拼好给你 - 王...			0次    
+🏅 于是 - 郑润泽				0次    
+🏅 可惜我是水瓶座 - 杨...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你的头像是一个女孩子左手边牵着一条秋田犬，犬=狗，而**我是一条舔狗**。是不是代表你的小手在牵着我呢？
+今天表白被拒绝了，她对我说能不能脱下裤子撒泼尿照照自己，当我脱下裤子，她咽了口水，说我们可以试一下。
 
-                                                                                            2024-11-09 星期六
+                                                                                            2024-11-10 星期日
 ```
 <!-- dog-box end -->
 
