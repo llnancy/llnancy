@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 还是会想你 - 林达浪...			0次    
-🥈 罗生门（Follow）...			0次    
-🥉 把回忆拼好给你 - 王...			0次    
-🏅 于是 - 郑润泽				0次    
-🏅 可惜我是水瓶座 - 杨...			0次    
+🥇 若把你 - Kirst...			0次    
+🥈 可惜我是水瓶座 - 杨...			0次    
+🥉 飘雪 - 陈慧娴				0次    
+🏅 为你我受冷风吹 - 林...			0次    
+🏅 雨爱 - 杨丞琳				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨天你把我删了，我陷入了久久的沉思 。我想这其中一定有什么含义，你应该是欲擒故纵吧，嫌我不够爱你。突然觉得无理取闹的你变得更加可爱
-了，我会坚守我对你的爱的 你放心好啦！这么一想，突然对我俩的未来更有期望了呢。
+今天发工资了，我一个月工资3000，你猜我会给你多少，是不是觉得我会给你2500，自己留500吃饭？你想多了，我3000都给你，因
+为厂里包吃包住。
 
-                                                                                            2024-11-14 星期四
+                                                                                            2024-11-15 星期五
 ```
 <!-- dog-box end -->
 
