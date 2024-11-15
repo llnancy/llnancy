@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 若把你 - Kirst...			0次    
-🥈 可惜我是水瓶座 - 杨...			0次    
-🥉 飘雪 - 陈慧娴				0次    
-🏅 为你我受冷风吹 - 林...			0次    
-🏅 雨爱 - 杨丞琳				0次    
+🥇 先说谎的人 (Live...			0次    
+🥈 罗生门（Follow）...			0次    
+🥉 把回忆拼好给你 - 王...			0次    
+🏅 若把你 - Kirst...			0次    
+🏅 像我这样的人 - 毛不...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天发工资了，我一个月工资3000，你猜我会给你多少，是不是觉得我会给你2500，自己留500吃饭？你想多了，我3000都给你，因
-为厂里包吃包住。
+我存了两个月钱，给你买了一双北卡蓝，你对我说一句谢谢，我好开心。这是你第一次对我说两个字，以前你都只对我说滚。今天晚上逛咸鱼，看到
+了你把我送你的北卡蓝发布上去了。我想你一定是在考验我，再次送给你，给你一个惊喜，我爱你。
 
-                                                                                            2024-11-15 星期五
+                                                                                            2024-11-16 星期六
 ```
 <!-- dog-box end -->
 
