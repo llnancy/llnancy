@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 先说谎的人 (Live...			0次    
-🥈 罗生门（Follow）...			0次    
-🥉 把回忆拼好给你 - 王...			0次    
-🏅 若把你 - Kirst...			0次    
-🏅 像我这样的人 - 毛不...			0次    
+🥇 若把你 - Kirst...			0次    
+🥈 像我这样的人 - 毛不...			0次    
+🥉 消愁 - 毛不易				0次    
+🏅 April Encou...			0次    
+🏅 落空 - 印子月				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我存了两个月钱，给你买了一双北卡蓝，你对我说一句谢谢，我好开心。这是你第一次对我说两个字，以前你都只对我说滚。今天晚上逛咸鱼，看到
-了你把我送你的北卡蓝发布上去了。我想你一定是在考验我，再次送给你，给你一个惊喜，我爱你。
+昨晚你和朋友打了一晚上游戏，你破天荒的给我看了战绩，虽然我看不懂但是我相信你一定是最厉害的，最棒的，我给你发了好多消息夸你，告诉你
+我多崇拜你，你回了我一句“傻b”，我翻来覆去思考这是什么意思，sh-a傻，噢你是说我傻，那b就是baby的意思了吧，原来你是在叫我
+傻宝，这么宠溺的语气，我竟一时不敢相信，其实你也是喜欢我的对吧
 
-                                                                                            2024-11-16 星期六
+                                                                                            2024-11-17 星期日
 ```
 <!-- dog-box end -->
 
