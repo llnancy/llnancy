@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 若把你 - Kirst...			0次    
-🥈 像我这样的人 - 毛不...			0次    
-🥉 消愁 - 毛不易				0次    
-🏅 April Encou...			0次    
+🥇 像我这样的人 - 毛不...			0次    
+🥈 消愁 - 毛不易				0次    
+🥉 April Encou...			0次    
 🏅 落空 - 印子月				0次    
+🏅 颓 - 九块钱/Max...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天你跟我说我很丑，让我不要骚扰你了。我听了很高兴，小说里的主角都像你这样，最开始表现的很厌恶，但最后总会被我的真心打动。你现在有
-多讨厌我，以后就会有多爱我。嘻嘻。
+刚才我找你说话，你回了一个滚，我陷入了沉思，你还是如此的关心我，知道我腿受伤了，让我这样走，好感动！看来你还是爱我的！
 
-                                                                                            2024-11-21 星期四
+                                                                                            2024-11-22 星期五
 ```
 <!-- dog-box end -->
 
