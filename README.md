@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 漫天黄沙硝烟白 - M...			0次    
-🥈 傻女 - 陈慧娴				0次    
-🥉 是否我真的一无所有 -...			0次    
-🏅 最佳损友 - 陈奕迅			0次    
-🏅 冷雨夜 - Beyon...			0次    
+🥇 偏偏喜欢你 - 陈百强			0次    
+🥈 漫天黄沙硝烟白 - M...			0次    
+🥉 相依为命 - 陈小春			0次    
+🏅 执着 - 田震				0次    
+🏅 傻女 - 陈慧娴				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-在我一如既往的每天跟她问早安的时候，她今天终于回我了。我激动地问她我是不是今天第一个跟她说话的人，她说不是，是**她男朋友把她叫起
-来退房**的。
+你说你情头是一个人用的，空间上锁是因为你不喜欢玩空间，情侣空间是和闺蜜开的，找你连麦时你说你在忙工作，每次聊天你都说在忙，你真是一
+个上进的好女孩，你真好，我好喜欢你！",
 
-                                                                                            2024-11-23 星期六
+                                                                                            2024-11-24 星期日
 ```
 <!-- dog-box end -->
 
