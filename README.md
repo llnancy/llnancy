@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 偏偏喜欢你 - 陈百强			0次    
-🥈 漫天黄沙硝烟白 - M...			0次    
-🥉 相依为命 - 陈小春			0次    
-🏅 执着 - 田震				0次    
-🏅 傻女 - 陈慧娴				0次    
+🥇 平行线 - 郑润泽			0次    
+🥈 偏偏喜欢你 - 陈百强			0次    
+🥉 漫天黄沙硝烟白 - M...			0次    
+🏅 相依为命 - 陈小春			0次    
+🏅 Ephemeral M...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨天就为你充了710点卷，虽然知道你不会玩不知去向，但你说好看，你刚才说小号想要还想要一个，爱你的我还是满心欢喜的把剩下的100元
-伙食费又给你充了710，然后看到你小号并没有买，而是你送给了你的一个弟弟，你对弟弟真好，好有爱心，我感觉对你陷得很深了。
+明天就周六了我知道你不上班，但是我怕你睡懒觉不吃早饭饿坏自己，我早晨4点去菜市场买了新鲜活鸡给你炖鸡汤，阿姨给我用箱子装了起来，我
+骑上我280买的电动车哼着小调回家，心想你一定会被我感动的，箱子半路开了，鸡跑了，拐到了一个胡同里，凌晨4点的胡同还有穿超短裙和大
+叔聊天的美女，不禁感叹这个世界变了，她问我找什么，…………。对不起，我爱你
 
-                                                                                            2024-11-26 星期二
+                                                                                            2024-11-27 星期三
 ```
 <!-- dog-box end -->
 
