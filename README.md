@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 列车开往春天 (DJ沈...			0次    
-🥈 关山酒（DJ小于版） ...			0次    
-🥉 DOAR CU TIN...			0次    
+🥇 唢呐为王 - Topp...			0次    
+🥈 列车开往春天 (DJ沈...			0次    
+🥉 关山酒（DJ小于版） ...			0次    
+🏅 DOAR CU TIN...			0次    
 🏅 恐龙扛狼DJ版 - 吴...			0次    
-🏅 须尽欢(DJ弹鼓版) ...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天上班不是太忙，百无聊赖，又翻出了你的相片，看了又看。今天是我认识你的第302天，也是我爱你的第302天，可是这些你并不知道，也
-许你知道了，也不会在意吧。 此刻的我好想你！
+你三天没回我的消息在我孜孜不倦地骚扰下你终于舍得回我了你说nmsl我想这一定是有什么含义吧噢!我恍然大悟原来是尼美舒利颗粒他知道我
+关节炎让我吃尼美舒利颗粒他还是关心我的但是又不想显现的那么热情的天啊他好高冷我好像更喜欢他了?
 
-                                                                                            2024-11-29 星期五
+                                                                                            2024-11-30 星期六
 ```
 <!-- dog-box end -->
 
