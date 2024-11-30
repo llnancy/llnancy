@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 唢呐为王 - Topp...			0次    
+🥇 须尽欢(DJ弹鼓版) ...			0次    
 🥈 列车开往春天 (DJ沈...			0次    
 🥉 关山酒（DJ小于版） ...			0次    
 🏅 DOAR CU TIN...			0次    
-🏅 恐龙扛狼DJ版 - 吴...			0次    
+🏅 张韶涵-有形的翅膀（D...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你三天没回我的消息在我孜孜不倦地骚扰下你终于舍得回我了你说nmsl我想这一定是有什么含义吧噢!我恍然大悟原来是尼美舒利颗粒他知道我
-关节炎让我吃尼美舒利颗粒他还是关心我的但是又不想显现的那么热情的天啊他好高冷我好像更喜欢他了?
+我退了无关紧要的群，唯独这个群我没有退，因为这里有一个对我来说很特别的女孩子，我们不是好友，**我每天只能通过群名片看看她**，虽
+然一张照片也看不到，我也知足了，我不敢说她的名字，但我知道她是群里面最美的女孩子，她说我们这样会距离产生美~ 我想想发现她说的挺对
+的，我心里很开心。
 
-                                                                                            2024-11-30 星期六
+                                                                                            2024-12-01 星期日
 ```
 <!-- dog-box end -->
 
