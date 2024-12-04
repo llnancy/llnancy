@@ -144,10 +144,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 须尽欢(DJ弹鼓版) ...			0次    
-🥈 天下（DJ抖音热播） ...			0次    
-🥉 列车开往春天 (DJ沈...			0次    
-🏅 关山酒（DJ小于版） ...			0次    
-🏅 最好的安排（DJ版） ...			0次    
+🥈 列车开往春天 (DJ沈...			0次    
+🥉 关山酒（DJ小于版） ...			0次    
+🏅 天下（DJ抖音热播） ...			0次    
+🏅 未说再见的遗憾 - T...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你已经好几分钟没回我信息了，在我孜孜不倦的骚扰下你终于肯回我了 你说滚 这其中一定有什么含义 我想了很久 滚是三点水这代表着你对我
-的思念也如滚滚流水一样汹涌 我感动哭了 不知道你现在在干嘛 我很想你 "。
+今天你把我的vx拉黑了，这下我终于解放了！以前我总担心太多消息会打扰你，现在我终于不用顾忌，不管我怎么给你发消息，都不会让你不开心
+了。等我攒够5201314条我就拿给你看，你一定会震惊得说不出话然后哭着说会爱我一辈子。哈哈。
 
-                                                                                            2024-12-04 星期三
+                                                                                            2024-12-05 星期四
 ```
 <!-- dog-box end -->
 
