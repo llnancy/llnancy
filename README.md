@@ -144,10 +144,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 须尽欢(DJ弹鼓版) ...			0次    
-🥈 沉醉的青丝 (想你 念...			0次    
-🥉 虞兮叹 (DJ沈念) ...			0次    
+🥈 心墙 - DJ.Mr....			0次    
+🥉 沉醉的青丝 (想你 念...			0次    
+🏅 虞兮叹 (DJ沈念) ...			0次    
 🏅 他一定很爱你（DJ版）...			0次    
-🏅 心墙 - DJ.Mr....			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-其实我每月工资6000，但我只给你转2000，你以为我给你了全部。才不是，我一共舔了3个哪，我要舔的雨露均沾，才不会把你当成唯一。
+听说你朋友说今天出门了，我打扮成精神小伙来找你，没想到你竟然对我说“**给我爬，别过来**”我当场就哭了，原来真心真的会感动人，你
+一定是知道，穿豆豆鞋走路脚会很累，让我爬是因为这样不会累着脚，其实你是喜欢我的吧
 
-                                                                                            2024-12-09 星期一
+                                                                                            2024-12-10 星期二
 ```
 <!-- dog-box end -->
 
