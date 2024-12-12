@@ -144,10 +144,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 心墙 - DJ.Mr....			0次    
-🥈 沉醉的青丝 (想你 念...			0次    
-🥉 虞兮叹 (DJ沈念) ...			0次    
-🏅 他一定很爱你（DJ版）...			0次    
-🏅 春泥（DJ版） - 圈...			0次    
+🥈 春泥（DJ版） - 圈...			0次    
+🥉 删了吧（DJ版） - ...			0次    
+🏅 沉醉的青丝 (想你 念...			0次    
+🏅 虞兮叹 (DJ沈念) ...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我给你打了几通电话，你终于接了。听到了你发出啊啊啊啊的声音，你说你肚子痛，我想你一定是很难受吧。电话还有个男的对你说“来换个姿势”
-，一定是在做理疗了。期待你早日康复，我好担心。
+昨天晚上也好冷，本来以为街上没人，结果刚刚偷电动车的时候被抓了，本来想反抗，但警察说了一句老实点别动，我立刻就放弃了抵抗，因为我记
+得你说过，你喜欢老实人。
 
-                                                                                            2024-12-12 星期四
+                                                                                            2024-12-13 星期五
 ```
 <!-- dog-box end -->
 
