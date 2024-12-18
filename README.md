@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 李耀阳-唱月（DJ车载...			0次    
-🥈 Another Me ...			0次    
-🥉 青丝(君不见妾起舞翩翩...			0次    
-🏅 如果的事（DJ文rem...			0次    
-🏅 心之火 - DJ铁柱			0次    
+🥇 是想你的声音啊 - 傲...			0次    
+🥈 A Better To...			0次    
+🥉 任我逍遥 - 崔子格			0次    
+🏅 Lost  - 满舒克...			0次    
+🏅 醉排骨（福安话） - ...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你好像从来没有对我说过晚安，我在我们的聊天记录里搜索了关键字：“晚安”，你说过一次：**我早晚安排人弄死你**。
+刚从派出所出来，原因前几天14号情人节，我想送你礼物，我去偷东西的时候被抓了，我本来想反抗，警察说了一句老实点别动，我立刻就放弃了
+反抗，因为我记得你说过，你喜欢老实人。
 
-                                                                                            2024-12-18 星期三
+                                                                                            2024-12-19 星期四
 ```
 <!-- dog-box end -->
 
