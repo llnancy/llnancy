@@ -147,7 +147,7 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 🥈 A Better To...			0次    
 🥉 任我逍遥 - 崔子格			0次    
 🏅 Lost  - 满舒克...			0次    
-🏅 醉排骨（福安话） - ...			0次    
+🏅 FLY-飞 - ANU			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天早上我告诉你我想你了，你没理我。今天中午我给你打电话，你不接，打第二个你就关机。晚上我在你公司楼下等你，你对我说的第一句话就是
-滚“**滚，别烦我，别浪费时间了**”，我真的好感动，你居然为我考虑了，怕我浪费时间。呜呜呜，这是我爱你的第74天。
+今天我主动给你发了游戏邀请，邀请你和我单挑安琪拉，虽然我安琪拉很菜，可是为了和你打游戏，我还是毅然决然给你发了邀请。你说你不接受，
+你在打其他游戏。联想到我自己很菜，我突然明白，原来你还是在乎我的，只是不想一遍遍连招一套的在泉水送我走。我再一次感动哭了，因此，我
+好像更喜欢你了，你可真是一个宝藏男孩！
 
-                                                                                            2024-12-20 星期五
+                                                                                            2024-12-21 星期六
 ```
 <!-- dog-box end -->
 
