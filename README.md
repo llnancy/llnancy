@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 是想你的声音啊 - 傲...			0次    
-🥈 给你给我 - 毛不易			0次    
-🥉 你走以后 - 王恩信E...			0次    
-🏅 Lost  - 满舒克...			0次    
-🏅 FLY-飞 - ANU			0次    
+🥇 给你给我 - 毛不易			0次    
+🥈 你走以后 - 王恩信E...			0次    
+🥉 FLY-飞 - ANU			0次    
+🏅 声声慢 - 崔开潮			0次    
+🏅 我记得你眼里的依恋 -...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-找你连麦时你说你在忙工作，每次聊天你都说在忙，你真是一个上进的好女孩，你真好，发现我越来越喜欢这样优秀的你。
+昨天你领完红包就把我删了，我陷入久久地沉思。我想这其中一定有什么含义，原来你是在欲擒故纵，嫌我不够爱你。无理取闹的你变得更加可爱了
+，我会坚守我对你的爱的。你放心好啦！今天发工资了，发了1850，给你微信转了520，支付宝1314，还剩下16。给你发了很多消息你
+没回。剩下16块我在小卖部买了你爱吃的老坛酸菜牛肉面，给你寄过去了。希望你保护好食欲，我去上班了爱你~~
 
-                                                                                            2024-12-23 星期一
+                                                                                            2024-12-24 星期二
 ```
 <!-- dog-box end -->
 
