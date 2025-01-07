@@ -143,10 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 无力挽回 - Good...			0次    
-🥈 Baby I'm So...			0次    
-🥉 第三人称 - DJHZ...			0次    
-🏅 爱的故事上集 (bb鼓...			0次    
+🥇 不问别离 - 指尖笑			0次    
+🥈 莫回头快走吧 - 留园...			0次    
+🥉 若月亮没来 - 等逢春			0次    
+🏅 魔怔旋律（Loiek）...			0次    
+🏅 真的爱你 - Beyo...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -162,9 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天表白被拒绝了，她对我说能不能脱下裤子撒泼尿照照自己，当我脱下裤子，她咽了口水，说我们可以试一下。
+你从来没说过爱我，聊天记录搜索了一下“爱”，唯一的一条是：你好像乡村爱情里的刘能啊。
 
-                                                                                            2025-01-07 星期二
+                                                                                            2025-01-08 星期三
 ```
 <!-- dog-box end -->
 
