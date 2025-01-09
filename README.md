@@ -131,8 +131,8 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
 🌞 早晨     81 commits  ██▏░░░░░░░░░░░░░░░░░░  10.5%
-🌆 白天    220 commits  █████▉░░░░░░░░░░░░░░░  28.4%
-🌃 晚上    379 commits  ██████████▎░░░░░░░░░░  49.0%
+🌆 白天    221 commits  █████▉░░░░░░░░░░░░░░░  28.5%
+🌃 晚上    379 commits  ██████████▎░░░░░░░░░░  48.9%
 🌙 深夜     94 commits  ██▌░░░░░░░░░░░░░░░░░░  12.1%
 ```
 <!-- productive-box end -->
@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 我曾用心爱着你 - 洋...			0次    
-🥈 不问别离 - 指尖笑			0次    
-🥉 莫回头快走吧 - 留园...			0次    
-🏅 我无比清醒 但也无比心...			0次    
-🏅 Who will un...			0次    
+🥇 好久不见 - 胡歌/唐...			0次    
+🥈 消散对白 - 丁禹兮			0次    
+🥉 我曾用心爱着你 - 洋...			0次    
+🏅 不问别离 - 指尖笑			0次    
+🏅 莫回头快走吧 - 留园...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-在保安亭内看完了最新一集的梨泰院，曾经多么倔强的朴世路因为伊瑞给张大熙跪下了，亭外的树也许感受到了我的悲伤，枯了，我连树都保护不了
-，怎么保护你，或许保安才是真的需要被保护的吧。我难受，我想你。over
+昨晚你和朋友大佬一晚上游戏，你破天荒的给我看了你的战绩，虽然我看不懂但我相信你一定是最厉害的，最棒的！我给你发了好多消息夸你，告诉
+你我多崇拜你，你回了我一句：啥b，我翻来覆去思考这是什么意思？sh-a傻，噢你的意思是说我傻，那b就是baby的意思了吧，原来你是
+在叫我傻宝，这么宠溺的语气，我竟一时不相信，其实你也是喜欢我的对吧
 
-                                                                                            2025-01-09 星期四
+                                                                                            2025-01-10 星期五
 ```
 <!-- dog-box end -->
 
