@@ -145,9 +145,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 ```text
 🥇 盗墓笔记-步戏 - 五...			0次    
 🥈 小船谣 - GooGo...			0次    
-🥉 戒不掉 - Dream...			0次    
-🏅 回忆上了发条 - 第七...			0次    
+🥉 月光凉,落满窗 - 泡...			0次    
 🏅 鸳鸯债 - Uri/喵...			0次    
+🏅 神女劈观·唤情 Dev...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你说你情头是一个人用的，空间上锁是因为你不喜欢玩空间，情侣空间是和闺蜜开的，找你连麦时你说你在忙工作，每次聊天你都说在忙，你真是一
-个上进的好女孩，你真好，我好喜欢你！",
+今天我给你发消息，你回复我“**nmsl**”，我想了半天才知道你是在夸我，原来是**你美死了**，你嘴真甜，我爱你。
 
-                                                                                            2025-01-21 星期二
+                                                                                            2025-01-22 星期三
 ```
 <!-- dog-box end -->
 
