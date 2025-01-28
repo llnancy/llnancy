@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 月光凉,落满窗 - 泡...			0次    
+🥇 长生诀 - 西瓜JUN			0次    
 🥈 还是分开（Acoust...			0次    
-🥉 不如不见面 - 梁老师...			0次    
-🏅 黑色月亮 - 杨丞琳			0次    
-🏅 那该多好 - 夏天Al...			0次    
+🥉 影子小姐 - 封茗囧菌			0次    
+🏅 一荤一素 - 毛不易			0次    
+🏅 世界上的另一个我 - ...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,11 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我退了无关紧要的群，唯独这个群我没有退，因为这里有一个对我来说很特别的女孩子，我们不是好友，**我每天只能通过群名片看看她**，虽
-然一张照片也看不到，我也知足了，我不敢说她的名字，但我知道她是群里面最美的女孩子，她说我们这样会距离产生美~ 我想想发现她说的挺对
-的，我心里很开心。
+今天好开心啊，和你一起在峡谷嬉戏，打完一波团战之后看到你在打大龙，残血的我跳过去直接被龙爪拍死，但这一刻我觉得好浪漫，死在你的脚旁
+边，这是我离你最近的一次。
 
-                                                                                            2025-01-28 星期二
+                                                                                            2025-01-29 星期三
 ```
 <!-- dog-box end -->
 
