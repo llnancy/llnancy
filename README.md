@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 侧脸 - 于果				0次    
-🥈 不谓侠 - 萧忆情Al...			0次    
-🥉 多远都要在一起 (Du...			0次    
-🏅 童话镇 - 暗杠				0次    
-🏅 没有如果 - 大表哥S...			0次    
+🥇 侧脸·2024 - y...			0次    
+🥈 再见只是陌生人 - 玉...			0次    
+🥉 在你的身边 - 盛哲			0次    
+🏅 侧脸 - 于果				0次    
+🏅 偏爱 - 张芸京				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-12点队长过来准时交班，出去的车辆按喇叭我也没听到，只因我在监控中看到了穿睡衣出来倒垃圾的你，望你望的入神不由的傻笑了起来，队长过
-来骂我扣了我一天工资。我委屈，想抱你。你送的泡面真好吃。
+你好像从来没有对我说过晚安，我在我们的聊天记录里搜索了关键字：“晚安”，你说过一次：**我早晚安排人弄死你**。
 
-                                                                                            2025-02-13 星期四
+                                                                                            2025-02-14 星期五
 ```
 <!-- dog-box end -->
 
