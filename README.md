@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 醒着醉 - 马良				0次    
-🥈 带我走 - 杨丞琳			0次    
-🥉 玫瑰 - 贰佰				0次    
-🏅 勇气(Live) - ...			0次    
-🏅 寂寞烟火(说唱版） -...			0次    
+🥇 老男孩 (live) ...			0次    
+🥈 岁月神偷 - 金玟岐			0次    
+🥉 我们都一样 - 张杰			0次    
+🏅 小白 - 郑润泽/罗言			0次    
+🏅 戒断反应 - Coli...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天我观战了一天你和别人打游戏，你们玩的很开心，我给你发了200多条消息，你说没流量就不回了，晚上发说说没有人爱你，我连滚带爬评论
-了句有我在。你把我拉黑了，我给你打电话也无人接听。对不起我不该打扰你。我求求你再给我一次当好友的机会吧！
+你一个小时没回我的消息，在我孜孜不倦地骚扰下你终于舍得回我了“**在做爱**”，这其中一定有什么含义，我想了很久，“在做爱”这简简
+单单的三个字肯定是三句话，分别是**我在忙、做你女朋友、我爱你**，想到这里我不禁流下了眼泪，我这么长时间的喜欢没有白费，不知道你
+现在忙干嘛，但我很想你。
 
-                                                                                            2025-02-27 星期四
+                                                                                            2025-02-28 星期五
 ```
 <!-- dog-box end -->
 
