@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 老男孩 (live) ...			0次    
-🥈 岁月神偷 - 金玟岐			0次    
-🥉 我们都一样 - 张杰			0次    
-🏅 小白 - 郑润泽/罗言			0次    
-🏅 戒断反应 - Coli...			0次    
+🥇 鼓楼 - 赵雷				0次    
+🥈 老男孩 (live) ...			0次    
+🥉 走马 - 陈粒				0次    
+🏅 岁月神偷 - 金玟岐			0次    
+🏅 我们都一样 - 张杰			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你的头像是一个女孩子左手边牵着一条秋田犬，犬=狗，而**我是一条舔狗**。是不是代表你的小手在牵着我呢？
+今天表白被拒绝了，她对我说能不能脱下裤子撒泼尿照照自己，当我脱下裤子，她咽了口水，说我们可以试一下。
 
-                                                                                            2025-03-05 星期三
+                                                                                            2025-03-06 星期四
 ```
 <!-- dog-box end -->
 
