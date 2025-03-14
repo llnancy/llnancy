@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 一千个伤心的理由 - ...			0次    
-🥈 游山恋 (Album ...			0次    
-🥉 我翻山越岭只为去到你身...			0次    
-🏅 别来无恙（你听不见） ...			0次    
-🏅 Heaven - 田木...			0次    
+🥇 成都 - 赵雷				0次    
+🥈 花开又花谢花漫天 - ...			0次    
+🥉 想你就写信（prod ...			0次    
+🏅 谁 - 晨沦别网抑			0次    
+🏅 天使的翅膀 - 杨烁			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天我还是照常给你发消息，汇报日常工作，你终于回了我四个字：“嗯嗯，好的”你开始愿意敷衍我了，我太感动了受宠若惊。我愿意天天给你发
-消息。就算你天天骂我，我也不觉得烦。
+今天你问我借了两千块钱，说要做个手术，你果然还是爱我的，不是我的孩子，都不要。
 
-                                                                                            2025-03-14 星期五
+                                                                                            2025-03-15 星期六
 ```
 <!-- dog-box end -->
 
