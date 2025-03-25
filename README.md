@@ -144,10 +144,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 尘土 - 安朕宇				0次    
-🥈 后来 - 刘若英				0次    
-🥉 篝火旁 - 吕大叶/马...			0次    
-🏅 可惜没如果(Live)...			0次    
-🏅 英雄的黎明 - 横山菁...			0次    
+🥈 忽然之间 - 莫文蔚			0次    
+🥉 唯一 - 王力宏				0次    
+🏅 喜欢 - 阿肆				0次    
+🏅 不得不爱 - 弦子/潘...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天上班不是太忙，百无聊赖，又翻出了你的相片，看了又看。今天是我认识你的第302天，也是我爱你的第302天，可是这些你并不知道，也
-许你知道了，也不会在意吧。 此刻的我好想你！
+你三天没回我的消息在我孜孜不倦地骚扰下你终于舍得回我了你说nmsl我想这一定是有什么含义吧噢!我恍然大悟原来是尼美舒利颗粒他知道我
+关节炎让我吃尼美舒利颗粒他还是关心我的但是又不想显现的那么热情的天啊他好高冷我好像更喜欢他了?
 
-                                                                                            2025-03-25 星期二
+                                                                                            2025-03-26 星期三
 ```
 <!-- dog-box end -->
 
