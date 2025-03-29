@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 忽然之间 - 莫文蔚			0次    
-🥈 唯一 - 王力宏				0次    
-🥉 喜欢 - 阿肆				0次    
-🏅 不得不爱 - 弦子/潘...			0次    
-🏅 知足 - 五月天				0次    
+🥇 追光者 - 岑宁儿			0次    
+🥈 失恋阵线联盟 - 草蜢			0次    
+🥉 忽然之间 - 莫文蔚			0次    
+🏅 唯一 - 王力宏				0次    
+🏅 喜欢 - 阿肆				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨天你把我拉黑了 我看着红色感叹号陷入了久久的沉思 我想这其中一定有什么含义 红色红色 我明白了 红色代表热情 你对我很热情 你想
-和我结婚 我愿意
+你已经好几分钟没回我信息了，在我孜孜不倦的骚扰下你终于肯回我了 你说滚 这其中一定有什么含义 我想了很久 滚是三点水这代表着你对我
+的思念也如滚滚流水一样汹涌 我感动哭了 不知道你现在在干嘛 我很想你 "。
 
-                                                                                            2025-03-29 星期六
+                                                                                            2025-03-30 星期日
 ```
 <!-- dog-box end -->
 
