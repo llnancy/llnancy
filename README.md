@@ -144,10 +144,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 只要平凡 - 张杰/张...			0次    
-🥈 暖暖(Live) - ...			0次    
-🥉 蝴蝶泉边 - 黄雅莉			0次    
-🏅 不知悔恨，沉迷其中 -...			0次    
-🏅 我期待的不是雪（而是有...			0次    
+🥈 琵琶行 - 奇然/沈谧...			0次    
+🥉 暖暖(Live) - ...			0次    
+🏅 七月上 - Jam			0次    
+🏅 军中绿花 - 小曾			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨天晚上也好冷，本来以为街上没人，结果刚刚偷电动车的时候被抓了，本来想反抗，但警察说了一句老实点别动，我立刻就放弃了抵抗，因为我记
-得你说过，你喜欢老实人。
+最近我暗恋的女生每天都和不同的男生约会，我想总有一天会轮到我，我问她什么时候能见见我？她说**下辈子吧**。她真好，下辈子还要和我
+在一起。
 
-                                                                                            2025-04-08 星期二
+                                                                                            2025-04-09 星期三
 ```
 <!-- dog-box end -->
 
