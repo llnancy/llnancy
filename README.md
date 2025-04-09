@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 只要平凡 - 张杰/张...			0次    
+🥇 雨爱 - 杨丞琳				0次    
 🥈 琵琶行 - 奇然/沈谧...			0次    
-🥉 暖暖(Live) - ...			0次    
+🥉 我们的时光 - 赵雷			0次    
+🏅 外滩十八号 - 男才女...			0次    
 🏅 七月上 - Jam			0次    
-🏅 军中绿花 - 小曾			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-最近我暗恋的女生每天都和不同的男生约会，我想总有一天会轮到我，我问她什么时候能见见我？她说**下辈子吧**。她真好，下辈子还要和我
-在一起。
+晚上和你聊天，10点钟不到，你就说困了去睡觉了。现在凌晨1点钟，看到你给他的朋友圈点赞评论，约他明天去吃火锅。一定是你微信被盗了吧
+。
 
-                                                                                            2025-04-09 星期三
+                                                                                            2025-04-10 星期四
 ```
 <!-- dog-box end -->
 
