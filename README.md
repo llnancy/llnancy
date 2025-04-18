@@ -131,8 +131,8 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
 🌞 早晨     82 commits  ██▏░░░░░░░░░░░░░░░░░░  10.6%
-🌆 白天    219 commits  █████▉░░░░░░░░░░░░░░░  28.2%
-🌃 晚上    378 commits  ██████████▏░░░░░░░░░░  48.7%
+🌆 白天    218 commits  █████▉░░░░░░░░░░░░░░░  28.1%
+🌃 晚上    378 commits  ██████████▏░░░░░░░░░░  48.8%
 🌙 深夜     97 commits  ██▋░░░░░░░░░░░░░░░░░░  12.5%
 ```
 <!-- productive-box end -->
@@ -147,7 +147,6 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 🥈 我的秘密 (Live ...			0次    
 🥉 活着 - 郝云				0次    
 🏅 座位 - 小阿七				0次    
-🏅 荒 笛子 - 天易音乐			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +162,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-找你连麦时你说你在忙工作，每次聊天你都说在忙，你真是一个上进的好女孩，你真好，发现我越来越喜欢这样优秀的你。
+昨天你领完红包就把我删了，我陷入久久地沉思。我想这其中一定有什么含义，原来你是在欲擒故纵，嫌我不够爱你。无理取闹的你变得更加可爱了
+，我会坚守我对你的爱的。你放心好啦！今天发工资了，发了1850，给你微信转了520，支付宝1314，还剩下16。给你发了很多消息你
+没回。剩下16块我在小卖部买了你爱吃的老坛酸菜牛肉面，给你寄过去了。希望你保护好食欲，我去上班了爱你~~
 
-                                                                                            2025-04-18 星期五
+                                                                                            2025-04-19 星期六
 ```
 <!-- dog-box end -->
 
