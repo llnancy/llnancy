@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 落空 - 印子月				0次    
-🥈 凄美地 - 郭顶				0次    
-🥉 烟火里的尘埃 - 华晨...			0次    
-🏅 我的秘密 (Live ...			0次    
-🏅 活着 - 郝云				0次    
+🥇 若把你 - Kirst...			0次    
+🥈 消愁 - 毛不易				0次    
+🥉 谁 (Live版) -...			0次    
+🏅 落空 - 印子月				0次    
+🏅 凄美地 - 郭顶				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我坐在窗边给你发了99条消息，你终于肯回我了你说“**发你妈啊**”，我一下子就哭了，原来努力真的有用，你已经开始考虑想见我的妈妈
-了，你其实也是挺喜欢我的。
+难以言喻的下午。说不想你是假的，说爱你是真的，昨天他们骂我是你的舔狗，我不相信，因为我知道你肯定也是爱我的，你一定是在考验我对你的
+感情，只要我坚持下去你一定会被我的真诚所打动，！加油！不过我要批评你一下，昨晚你说去酒店跟人斗地主，我寻思两个人也玩不了呀，算了，
+不想了，毕竟打牌是赌博行为，不太好。
 
-                                                                                            2025-04-23 星期三
+                                                                                            2025-04-24 星期四
 ```
 <!-- dog-box end -->
 
