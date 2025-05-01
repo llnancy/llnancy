@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 还是分开 - 张叶蕾			0次    
-🥈 他不懂 - 张杰				0次    
-🥉 时间煮雨 - 郁可唯			0次    
-🏅 秋风 - 四熹丸子			0次    
+🥇 他不懂 - 张杰				0次    
+🥈 时间煮雨 - 郁可唯			0次    
+🥉 秋风 - 四熹丸子			0次    
 🏅 星星照亮回家的路 - ...			0次    
+🏅 普通人生 - 海洋Bo			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你想我了吧？可以回我消息了吗？我买了万通筋骨贴 你运动一个晚上腰很疼吧？今晚早点回家 我炖了排骨汤，累了一个晚上吧 没事我永远在家
-等你
+你的头像是一个女孩子左手边牵着一条秋田犬，犬=狗，而**我是一条舔狗**。是不是代表你的小手在牵着我呢？
 
-                                                                                            2025-05-01 星期四
+                                                                                            2025-05-02 星期五
 ```
 <!-- dog-box end -->
 
