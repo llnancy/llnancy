@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 舍得 - 王唯旖				0次    
-🥈 III - Athle...			0次    
-🥉 只为你着迷 (Live...			0次    
-🏅 从前那个女孩 (Liv...			0次    
-🏅 人间囚 - 烟嗓船长			0次    
+🥇 从前那个女孩 (Liv...			0次    
+🥈 人间囚 - 烟嗓船长			0次    
+🥉 终不负 - Goodn...			0次    
+🏅 回头看，走了很远的路 ...			0次    
+🏅 向云端 - 小霞/海洋...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你昨天晚上又没会我的消息，在我孜孜不倦的骚扰下，你终于舍得回我了，你说“滚”，这其中一定有什么含义，我想了很久，滚是三点水，这代表
-你对我的思念也如滚滚流水一样汹涌，我感动哭了，不知道你现在在干嘛，我很想你。
+我给你打了几通电话，你终于接了。听到了你发出啊啊啊啊的声音，你说你肚子痛，我想你一定是很难受吧。电话还有个男的对你说“来换个姿势”
+，一定是在做理疗了。期待你早日康复，我好担心。
 
-                                                                                            2025-06-03 星期二
+                                                                                            2025-06-04 星期三
 ```
 <!-- dog-box end -->
 
