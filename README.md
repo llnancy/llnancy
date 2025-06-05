@@ -143,11 +143,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 从前那个女孩 (Liv...			0次    
-🥈 人间囚 - 烟嗓船长			0次    
-🥉 终不负 - Goodn...			0次    
-🏅 回头看，走了很远的路 ...			0次    
-🏅 向云端 - 小霞/海洋...			0次    
+Oh my God!
+~~~~~~
+我最近一周竟然没有听歌～
+~~~~~~
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +162,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨天晚上也好冷，本来以为街上没人，结果刚刚偷电动车的时候被抓了，本来想反抗，但警察说了一句老实点别动，我立刻就放弃了抵抗，因为我记
-得你说过，你喜欢老实人。
+最近我暗恋的女生每天都和不同的男生约会，我想总有一天会轮到我，我问她什么时候能见见我？她说**下辈子吧**。她真好，下辈子还要和我
+在一起。
 
-                                                                                            2025-06-05 星期四
+                                                                                            2025-06-06 星期五
 ```
 <!-- dog-box end -->
 
