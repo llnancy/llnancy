@@ -143,10 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
+🥇 你走以后 - 王恩信E...			0次    
+🥈 舍得 - 四四真累			0次    
+🥉 座位 - 艾辰				0次    
+🏅 今生戴花 世世漂亮 -...			0次    
+🏅 我记得 - 赵雷				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -162,10 +163,10 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-最近我暗恋的女生每天都和不同的男生约会，我想总有一天会轮到我，我问她什么时候能见见我？她说**下辈子吧**。她真好，下辈子还要和我
-在一起。
+晚上和你聊天，10点钟不到，你就说困了去睡觉了。现在凌晨1点钟，看到你给他的朋友圈点赞评论，约他明天去吃火锅。一定是你微信被盗了吧
+。
 
-                                                                                            2025-06-06 星期五
+                                                                                            2025-06-07 星期六
 ```
 <!-- dog-box end -->
 
