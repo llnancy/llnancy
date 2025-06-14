@@ -144,10 +144,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 给你给我 - 毛不易			0次    
-🥈 你走以后 - 王恩信E...			0次    
-🥉 最后一首情歌 - 苏琛			0次    
-🏅 城北的花 (Live版...			0次    
-🏅 九万字 (Live版)...			0次    
+🥈 最后一首情歌 - 苏琛			0次    
+🥉 城北的花 (Live版...			0次    
+🏅 座位 (Live版) ...			0次    
+🏅 亲爱的你啊 - 任素汐			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,11 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你昨天晚上又没回我信息，我却看见你的游戏在线，在我再一次孜孜不倦的骚扰你的情况下,你终于跟我说了一句最长的话 “你他妈是不是有病”
- 我又陷入了沉思，这一定有什么含义,我想了很久你竟然提到了我的妈妈，原来你已经想得那么长远了，想和我结婚见我的父母，我太感动了真的
-，真的，那你现在在干嘛，我好想你，我妈妈说她也很喜欢你。
+找你连麦时你说你在忙工作，每次聊天你都说在忙，你真是一个上进的好女孩，你真好，发现我越来越喜欢这样优秀的你。
 
-                                                                                            2025-06-14 星期六
+                                                                                            2025-06-15 星期日
 ```
 <!-- dog-box end -->
 
