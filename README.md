@@ -145,9 +145,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 ```text
 🥇 给你给我 - 毛不易			0次    
 🥈 最后一首情歌 - 苏琛			0次    
-🥉 城北的花 (Live版...			0次    
-🏅 座位 (Live版) ...			0次    
-🏅 亲爱的你啊 - 任素汐			0次    
+🥉 亲爱的你啊 - 任素汐			0次    
+🏅 看着我的眼睛说 - 张...			0次    
+🏅 风铃 - 蒋孜怡				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我爸说再敢网恋就打断我的腿，幸好不是胳膊，这样我还能继续和你打字聊天，就算连胳膊也打断了，我的心里也会有你位置。
+中午你无故扇了我一巴掌，我握着你的手说“手怎么这么凉，都怪我没有照顾好你，一定要更加对你好”。
 
-                                                                                            2025-06-17 星期二
+                                                                                            2025-06-18 星期三
 ```
 <!-- dog-box end -->
 
