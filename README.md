@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 月亮翻过小山坡 (Li...			0次    
-🥈 舍得 - 仓雁彬				0次    
-🥉 我要你明媚 - 李雪萌...			0次    
-🏅 过站 - DBAA			0次    
-🏅 Lonely - Na...			0次    
+🥇 不在 - 韩安旭				0次    
+🥈 月亮翻过小山坡 (Li...			0次    
+🥉 舍得 - 仓雁彬				0次    
+🏅 窗外小雨 - 四熹丸子			0次    
+🏅 我要你明媚 - 李雪萌...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-听说你想要一套化妆品，我算了算，明天我去公司里面扫一天厕所，就可以拿到200块钱，再加上我上个月攒下来的零花钱，刚好给你买一套迪奥
-。
+我坐在窗边给你发了99条消息，你终于肯回我了你说“**发你妈啊**”，我一下子就哭了，原来努力真的有用，你已经开始考虑想见我的妈妈
+了，你其实也是挺喜欢我的。
 
-                                                                                            2025-06-19 星期四
+                                                                                            2025-06-20 星期五
 ```
 <!-- dog-box end -->
 
