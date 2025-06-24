@@ -147,7 +147,7 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 🥈 FLY-飞 - ANU			0次    
 🥉 最后一页（爱只能在回忆...			0次    
 🏅 我记得你眼里的依恋 -...			0次    
-🏅 月亮翻过小山坡 (Li...			0次    
+🏅 如果有来生 - 谭维维			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,11 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你一个小时没回我的消息，在我孜孜不倦地骚扰下你终于舍得回我了“**在做爱**”，这其中一定有什么含义，我想了很久，“在做爱”这简简
-单单的三个字肯定是三句话，分别是**我在忙、做你女朋友、我爱你**，想到这里我不禁流下了眼泪，我这么长时间的喜欢没有白费，不知道你
-现在忙干嘛，但我很想你。
+哥们，求你和她说句话吧，这样她就不会那么难过了。
 
-                                                                                            2025-06-24 星期二
+                                                                                            2025-06-25 星期三
 ```
 <!-- dog-box end -->
 
