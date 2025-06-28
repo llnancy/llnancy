@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 最后一页（爱只能在回忆...			0次    
-🥈 我记得你眼里的依恋 -...			0次    
-🥉 如果有来生 - 谭维维			0次    
-🏅 忘了 (Live版) ...			0次    
+🥇 如果有来生 - 谭维维			0次    
+🥈 红蔷薇白玫瑰 (G.E...			0次    
+🥉 忘了 (Live版) ...			0次    
 🏅 世界唱着晚安谣 - G...			0次    
+🏅 心之所向 - 善宇			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你想我了吧？可以回我消息了吗？我买了万通筋骨贴 你运动一个晚上腰很疼吧？今晚早点回家 我炖了排骨汤，累了一个晚上吧 没事我永远在家
-等你
+你的头像是一个女孩子左手边牵着一条秋田犬，犬=狗，而**我是一条舔狗**。是不是代表你的小手在牵着我呢？
 
-                                                                                            2025-06-28 星期六
+                                                                                            2025-06-29 星期日
 ```
 <!-- dog-box end -->
 
