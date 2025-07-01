@@ -143,9 +143,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 如果有来生 - 谭维维			0次    
-🥈 红蔷薇白玫瑰 (G.E...			0次    
-🥉 忘了 (Live版) ...			0次    
+🥇 红蔷薇白玫瑰 (G.E...			0次    
+🥈 忘了 (Live版) ...			0次    
+🥉 情结 (Live版) ...			0次    
 🏅 世界唱着晚安谣 - G...			0次    
 🏅 心之所向 - 善宇			0次    
 ```
@@ -163,9 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你从来没说过爱我，聊天记录搜索了一下“爱”，唯一的一条是：你好像乡村爱情里的刘能啊。
+在保安亭内看完了最新一集的梨泰院，曾经多么倔强的朴世路因为伊瑞给张大熙跪下了，亭外的树也许感受到了我的悲伤，枯了，我连树都保护不了
+，怎么保护你，或许保安才是真的需要被保护的吧。我难受，我想你。over
 
-                                                                                            2025-07-01 星期二
+                                                                                            2025-07-02 星期三
 ```
 <!-- dog-box end -->
 
