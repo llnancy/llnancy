@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 跳楼机 (with T...			0次    
-🥈 红蔷薇白玫瑰 (G.E...			0次    
-🥉 心动不是答案 - 徐梓...			0次    
-🏅 情结 (Live版) ...			0次    
-🏅 野路 - 许嵩				0次    
+🥇 Send It (fe...			0次    
+🥈 笔记 - 周笔畅				0次    
+🥉 从前说 (Live版)...			0次    
+🏅 月亮照山川 (Live...			0次    
+🏅 跳楼机 (with T...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨天你把我删了，我陷入了久久的沉思 。我想这其中一定有什么含义，你应该是欲擒故纵吧，嫌我不够爱你。突然觉得无理取闹的你变得更加可爱
-了，我会坚守我对你的爱的 你放心好啦！这么一想，突然对我俩的未来更有期望了呢。
+今天发工资了，我一个月工资3000，你猜我会给你多少，是不是觉得我会给你2500，自己留500吃饭？你想多了，我3000都给你，因
+为厂里包吃包住。
 
-                                                                                            2025-07-04 星期五
+                                                                                            2025-07-05 星期六
 ```
 <!-- dog-box end -->
 
