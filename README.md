@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     82 commits  ██▏░░░░░░░░░░░░░░░░░░  10.6%
-🌆 白天    218 commits  █████▉░░░░░░░░░░░░░░░  28.1%
-🌃 晚上    378 commits  ██████████▏░░░░░░░░░░  48.8%
-🌙 深夜     97 commits  ██▋░░░░░░░░░░░░░░░░░░  12.5%
+🌞 早晨     83 commits  ██▎░░░░░░░░░░░░░░░░░░  10.8%
+🌆 白天    215 commits  █████▉░░░░░░░░░░░░░░░  28.1%
+🌃 晚上    371 commits  ██████████▏░░░░░░░░░░  48.4%
+🌙 深夜     97 commits  ██▋░░░░░░░░░░░░░░░░░░  12.7%
 ```
 <!-- productive-box end -->
 
@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Send It (fe...			0次    
-🥈 笔记 - 周笔畅				0次    
-🥉 夜车 - 曾轶可				0次    
-🏅 从前说 (Live版)...			0次    
-🏅 异心引力 - 银河快递			0次    
+🥇 再见 (Live Pi...			0次    
+🥈 当我谈论月亮 - 林喻...			0次    
+🥉 山南的风吹到北 - 抠...			0次    
+🏅 迷失情感迷宫 - 曾舜...			0次    
+🏅 删了吧 - 烟(许佳豪...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我存了两个月钱，给你买了一双北卡蓝，你对我说一句谢谢，我好开心。这是你第一次对我说两个字，以前你都只对我说滚。今天晚上逛咸鱼，看到
-了你把我送你的北卡蓝发布上去了。我想你一定是在考验我，再次送给你，给你一个惊喜，我爱你。
+今天我给你发消息，你回复我“**nmsl**”，我想了半天才知道你是在夸我，原来是**你美死了**，你嘴真甜，我爱你。
 
-                                                                                            2025-07-06 星期日
+                                                                                            2025-07-15 星期二
 ```
 <!-- dog-box end -->
 
