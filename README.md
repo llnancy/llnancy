@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 光年之外 (G.E.M...			0次    
-🥈 亲爱的你啊 - 任素汐...			0次    
-🥉 别让爱凋落 (Live...			0次    
-🏅 只怪那天的天气 - M...			0次    
-🏅 一人行 - 曾舜晞			0次    
+🥇 失眠笔记 - 承桓			0次    
+🥈 一天如一年 - 安洛贤...			0次    
+🥉 光年之外 (G.E.M...			0次    
+🏅 备用星球 - Blac...			0次    
+🏅 去山顶 - 葱香科学家...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天好开心啊，和你一起在峡谷嬉戏，打完一波团战之后看到你在打大龙，残血的我跳过去直接被龙爪拍死，但这一刻我觉得好浪漫，死在你的脚旁
-边，这是我离你最近的一次。
+昨天你把我拉黑了 我看着红色感叹号陷入了久久的沉思 我想这其中一定有什么含义 红色红色 我明白了 红色代表热情 你对我很热情 你想
+和我结婚 我愿意
 
-                                                                                            2025-07-22 星期二
+                                                                                            2025-07-23 星期三
 ```
 <!-- dog-box end -->
 
