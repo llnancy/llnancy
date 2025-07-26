@@ -144,10 +144,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 借 - 毛不易				0次    
-🥈 侧脸 - 于果				0次    
-🥉 偏爱 - 张芸京				0次    
+🥈 不小心 - 陈尤利			0次    
+🥉 侧脸 - 于果				0次    
+🏅 偏爱 - 张芸京				0次    
 🏅 玫瑰  - 赵小贝			0次    
-🏅 和你 - 余佳运				0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天的我排位输了好多把，我将这些事情分享给您，但是你一个字都没有讲，我在想你是不是在忙？我头痛欲裂，终于在我给你发了几十条消息之后
-，你终于回了我一个脑子是不是有病？原来你还是关心我的，看到这句话，我的脑子一下就不疼了，今天也是爱你的一天
+你跟他已经醒了吧?我今天捡垃圾挣了一百多明天给你打过去你快点休息吧我明天叫你起床给你点外卖买烟给你点你最喜欢的奶茶晚上我会继续去摆
+地摊的你不用担心我烦你床只有那么大睡不下三个你要好好照顾好自己不要让他抢你被子我永远爱你
 
-                                                                                            2025-07-26 星期六
+                                                                                            2025-07-27 星期日
 ```
 <!-- dog-box end -->
 
