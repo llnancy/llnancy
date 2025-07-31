@@ -131,7 +131,7 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
 🌞 早晨     83 commits  ██▎░░░░░░░░░░░░░░░░░░  11.0%
-🌆 白天    214 commits  █████▉░░░░░░░░░░░░░░░  28.3%
+🌆 白天    215 commits  █████▉░░░░░░░░░░░░░░░  28.4%
 🌃 晚上    361 commits  ██████████░░░░░░░░░░░  47.8%
 🌙 深夜     97 commits  ██▋░░░░░░░░░░░░░░░░░░  12.8%
 ```
@@ -146,8 +146,8 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 🥇 借 - 毛不易				0次    
 🥈 不小心 - 陈尤利			0次    
 🥉 侧脸 - 于果				0次    
-🏅 偏爱 - 张芸京				0次    
 🏅 久违 - Swang多...			0次    
+🏅 一个人想着一个人 - ...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你昨天晚上又没会我的消息，在我孜孜不倦的骚扰下，你终于舍得回我了，你说“滚”，这其中一定有什么含义，我想了很久，滚是三点水，这代表
-你对我的思念也如滚滚流水一样汹涌，我感动哭了，不知道你现在在干嘛，我很想你。
+我给你打了几通电话，你终于接了。听到了你发出啊啊啊啊的声音，你说你肚子痛，我想你一定是很难受吧。电话还有个男的对你说“来换个姿势”
+，一定是在做理疗了。期待你早日康复，我好担心。
 
-                                                                                            2025-07-31 星期四
+                                                                                            2025-08-01 星期五
 ```
 <!-- dog-box end -->
 
