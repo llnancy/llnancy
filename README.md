@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     83 commits  ██▎░░░░░░░░░░░░░░░░░░  10.9%
-🌆 白天    219 commits  ██████░░░░░░░░░░░░░░░  28.7%
-🌃 晚上    364 commits  ██████████░░░░░░░░░░░  47.7%
-🌙 深夜     97 commits  ██▋░░░░░░░░░░░░░░░░░░  12.7%
+🌞 早晨     83 commits  ██▎░░░░░░░░░░░░░░░░░░  10.8%
+🌆 白天    221 commits  ██████░░░░░░░░░░░░░░░  28.7%
+🌃 晚上    366 commits  █████████▉░░░░░░░░░░░  47.6%
+🌙 深夜     99 commits  ██▋░░░░░░░░░░░░░░░░░░  12.9%
 ```
 <!-- productive-box end -->
 
@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 不小心 - 陈尤利			0次    
-🥈 久违 - Swang多...			0次    
-🥉 一个人想着一个人 - ...			0次    
-🏅 点到为止 - 江映蓉			0次    
-🏅 烟火里的尘埃 - 华晨...			0次    
+🥇 Falling - A...			0次    
+🥈 心之火 (网友改 - ...			0次    
+🥉 Камин - EMI...			0次    
+🏅 Ride It - L...			0次    
+🏅 想自由 - 范芽芽			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨天晚上也好冷，本来以为街上没人，结果刚刚偷电动车的时候被抓了，本来想反抗，但警察说了一句老实点别动，我立刻就放弃了抵抗，因为我记
-得你说过，你喜欢老实人。
+最近我暗恋的女生每天都和不同的男生约会，我想总有一天会轮到我，我问她什么时候能见见我？她说**下辈子吧**。她真好，下辈子还要和我
+在一起。
 
-                                                                                            2025-08-02 星期六
+                                                                                            2025-08-03 星期日
 ```
 <!-- dog-box end -->
 
