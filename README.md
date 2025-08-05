@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Falling - A...			0次    
-🥈 心之火 (网友改 - ...			0次    
-🥉 Камин - EMI...			0次    
+🥇 你走 - 李宗锦（松紧...			0次    
+🥈 Falling - A...			0次    
+🥉 心之火 (网友改 - ...			0次    
+🏅 Камин - EMI...			0次    
 🏅 Ride It - L...			0次    
-🏅 想自由 - 范芽芽			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我坐在窗边给你发了99条消息  你终于肯回我了 你说“发你妈啊”  我一下子就哭了 原来努力真的有用  你已经开始考虑想见我的妈妈
-了 你也是挺喜欢我的。
+12点队长过来准时交班，出去的车辆按喇叭我也没听到，只因我在监控中看到了穿睡衣出来倒垃圾的你，望你望的入神不由的傻笑了起来，队长过
+来骂我扣了我一天工资。我委屈，想抱你。你送的泡面真好吃。
 
-                                                                                            2025-08-05 星期二
+                                                                                            2025-08-06 星期三
 ```
 <!-- dog-box end -->
 
