@@ -130,9 +130,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     83 commits  ██▎░░░░░░░░░░░░░░░░░░  10.8%
+🌞 早晨     84 commits  ██▎░░░░░░░░░░░░░░░░░░  10.9%
 🌆 白天    221 commits  ██████░░░░░░░░░░░░░░░  28.7%
-🌃 晚上    366 commits  █████████▉░░░░░░░░░░░  47.6%
+🌃 晚上    366 commits  █████████▉░░░░░░░░░░░  47.5%
 🌙 深夜     99 commits  ██▋░░░░░░░░░░░░░░░░░░  12.9%
 ```
 <!-- productive-box end -->
@@ -144,10 +144,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 你走 - 李宗锦（松紧...			0次    
-🥈 Falling - A...			0次    
-🥉 心之火 (网友改 - ...			0次    
-🏅 Камин - EMI...			0次    
-🏅 Ride It - L...			0次    
+🥈 爱，存在 - 魏奇奇			0次    
+🥉 我们都一样 - 张杰			0次    
+🏅 只是我太笨 - 潘艺翔			0次    
+🏅 Falling - A...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-刚从派出所出来，原因前几天14号情人节，我想送你礼物，我去偷东西的时候被抓了，我本来想反抗，警察说了一句老实点别动，我立刻就放弃了
-反抗，因为我记得你说过，你喜欢老实人。
+今天早上我告诉你我想你了，你没理我。今天中午我给你打电话，你不接，打第二个你就关机。晚上我在你公司楼下等你，你对我说的第一句话就是
+滚“**滚，别烦我，别浪费时间了**”，我真的好感动，你居然为我考虑了，怕我浪费时间。呜呜呜，这是我爱你的第74天。
 
-                                                                                            2025-08-08 星期五
+                                                                                            2025-08-09 星期六
 ```
 <!-- dog-box end -->
 
