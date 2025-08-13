@@ -144,10 +144,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 爱，存在 - 魏奇奇			0次    
-🥈 怎么唱情歌 - 刘惜君			0次    
-🥉 Booty Music...			0次    
-🏅 爱要怎么走到最后 - ...			0次    
-🏅 太阳的阴影 - 芒果小...			0次    
+🥈 Psycho, Pt....			0次    
+🥉 心跳 - 刘大拿				0次    
+🏅 Bleeding Lo...			0次    
+🏅 每当我 - easy-...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,11 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-昨天你领完红包就把我删了，我陷入久久地沉思。我想这其中一定有什么含义，原来你是在欲擒故纵，嫌我不够爱你。无理取闹的你变得更加可爱了
-，我会坚守我对你的爱的。你放心好啦！今天发工资了，发了1850，给你微信转了520，支付宝1314，还剩下16。给你发了很多消息你
-没回。剩下16块我在小卖部买了你爱吃的老坛酸菜牛肉面，给你寄过去了。希望你保护好食欲，我去上班了爱你~~
+我爸说再敢网恋就打断我的腿，幸好不是胳膊，这样我还能继续和你打字聊天，就算连胳膊也打断了，我的心里也会有你位置。
 
-                                                                                            2025-08-13 星期三
+                                                                                            2025-08-14 星期四
 ```
 <!-- dog-box end -->
 
