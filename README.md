@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 爱，存在 - 魏奇奇			0次    
-🥈 Psycho, Pt....			0次    
-🥉 心跳 - 刘大拿				0次    
-🏅 Bleeding Lo...			0次    
+🥇 Psycho, Pt....			0次    
+🥈 心跳 - 刘大拿				0次    
+🥉 Bleeding Lo...			0次    
 🏅 每当我 - easy-...			0次    
+🏅 还是分开（Acoust...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我爸说再敢网恋就打断我的腿，幸好不是胳膊，这样我还能继续和你打字聊天，就算连胳膊也打断了，我的心里也会有你位置。
+中午你无故扇了我一巴掌，我握着你的手说“手怎么这么凉，都怪我没有照顾好你，一定要更加对你好”。
 
-                                                                                            2025-08-14 星期四
+                                                                                            2025-08-15 星期五
 ```
 <!-- dog-box end -->
 
