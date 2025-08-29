@@ -145,9 +145,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 ```text
 🥇 唱给她听 - 石头			0次    
 🥈 达尔文 - 蔡健雅			0次    
-🥉 余香 - 张小九				0次    
+🥉 篝火旁 - 吕大叶/马...			0次    
+🏅 余香 - 张小九				0次    
 🏅 耿耿于怀 - 王笑文			0次    
-🏅 呼吸决定 - Fine...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-在保安亭内看完了最新一集的梨泰院，曾经多么倔强的朴世路因为伊瑞给张大熙跪下了，亭外的树也许感受到了我的悲伤，枯了，我连树都保护不了
-，怎么保护你，或许保安才是真的需要被保护的吧。我难受，我想你。over
+昨晚你和朋友大佬一晚上游戏，你破天荒的给我看了你的战绩，虽然我看不懂但我相信你一定是最厉害的，最棒的！我给你发了好多消息夸你，告诉
+你我多崇拜你，你回了我一句：啥b，我翻来覆去思考这是什么意思？sh-a傻，噢你的意思是说我傻，那b就是baby的意思了吧，原来你是
+在叫我傻宝，这么宠溺的语气，我竟一时不相信，其实你也是喜欢我的对吧
 
-                                                                                            2025-08-29 星期五
+                                                                                            2025-08-30 星期六
 ```
 <!-- dog-box end -->
 
