@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 唱给她听 - 石头			0次    
-🥈 达尔文 - 蔡健雅			0次    
-🥉 篝火旁 - 吕大叶/马...			0次    
-🏅 余香 - 张小九				0次    
-🏅 耿耿于怀 - 王笑文			0次    
+🥇 篝火旁 - 吕大叶/马...			0次    
+🥈 牵丝戏 - 银临/Ak...			0次    
+🥉 离开我的依赖（架子鼓）...			0次    
+🏅 我爱你但是我要回家 -...			0次    
+🏅 以爱为囚 - 满舒克			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天发工资了，我一个月工资3000，你猜我会给你多少，是不是觉得我会给你2500，自己留500吃饭？你想多了，我3000都给你，因
-为厂里包吃包住。
+我存了两个月钱，给你买了一双北卡蓝，你对我说一句谢谢，我好开心。这是你第一次对我说两个字，以前你都只对我说滚。今天晚上逛咸鱼，看到
+了你把我送你的北卡蓝发布上去了。我想你一定是在考验我，再次送给你，给你一个惊喜，我爱你。
 
-                                                                                            2025-09-01 星期一
+                                                                                            2025-09-02 星期二
 ```
 <!-- dog-box end -->
 
