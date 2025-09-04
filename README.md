@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 篝火旁 - 吕大叶/马...			0次    
-🥈 牵丝戏 - 银临/Ak...			0次    
-🥉 离开我的依赖（架子鼓）...			0次    
-🏅 我爱你但是我要回家 -...			0次    
-🏅 以爱为囚 - 满舒克			0次    
+🥇 一别两宽 - 佳利			0次    
+🥈 篝火旁 - 吕大叶/马...			0次    
+🥉 断线 - Shang/...			0次    
+🏅 可惜没如果(Live)...			0次    
+🏅 牵丝戏 - 银临/Ak...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,10 +163,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天我还是照常给你发消息，汇报日常工作，你终于回了我四个字：“嗯嗯，好的”你开始愿意敷衍我了，我太感动了受宠若惊。我愿意天天给你发
-消息。就算你天天骂我，我也不觉得烦。
+今天你问我借了两千块钱，说要做个手术，你果然还是爱我的，不是我的孩子，都不要。
 
-                                                                                            2025-09-04 星期四
+                                                                                            2025-09-05 星期五
 ```
 <!-- dog-box end -->
 
