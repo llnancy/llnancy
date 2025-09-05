@@ -143,11 +143,11 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 一别两宽 - 佳利			0次    
-🥈 篝火旁 - 吕大叶/马...			0次    
+🥇 小孩 - 罗森涛				0次    
+🥈 一别两宽 - 佳利			0次    
 🥉 断线 - Shang/...			0次    
 🏅 可惜没如果(Live)...			0次    
-🏅 牵丝戏 - 银临/Ak...			0次    
+🏅 有一种遗憾叫我们 - ...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天你问我借了两千块钱，说要做个手术，你果然还是爱我的，不是我的孩子，都不要。
+今天下雨了，我去你公司接你下班。看见我你不耐烦的说：烦不烦啊，不要再找我了。一头冲进雨里就跑开了。我心里真高兴啊，你宁愿自己淋雨，
+都不愿让我也淋湿一点，你果然还是爱我的。
 
-                                                                                            2025-09-05 星期五
+                                                                                            2025-09-06 星期六
 ```
 <!-- dog-box end -->
 
