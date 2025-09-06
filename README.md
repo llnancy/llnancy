@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     86 commits  ██▎░░░░░░░░░░░░░░░░░░  10.9%
-🌆 白天    222 commits  █████▉░░░░░░░░░░░░░░░  28.2%
-🌃 晚上    375 commits  ██████████░░░░░░░░░░░  47.6%
-🌙 深夜    104 commits  ██▊░░░░░░░░░░░░░░░░░░  13.2%
+🌞 早晨     85 commits  ██▎░░░░░░░░░░░░░░░░░░  11.0%
+🌆 白天    218 commits  █████▉░░░░░░░░░░░░░░░  28.2%
+🌃 晚上    368 commits  ██████████░░░░░░░░░░░  47.7%
+🌙 深夜    101 commits  ██▋░░░░░░░░░░░░░░░░░░  13.1%
 ```
 <!-- productive-box end -->
 
@@ -163,10 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天下雨了，我去你公司接你下班。看见我你不耐烦的说：烦不烦啊，不要再找我了。一头冲进雨里就跑开了。我心里真高兴啊，你宁愿自己淋雨，
-都不愿让我也淋湿一点，你果然还是爱我的。
+今天你跟我说我很丑，让我不要骚扰你了。我听了很高兴，小说里的主角都像你这样，最开始表现的很厌恶，但最后总会被我的真心打动。你现在有
+多讨厌我，以后就会有多爱我。嘻嘻。
 
-                                                                                            2025-09-06 星期六
+                                                                                            2025-09-07 星期日
 ```
 <!-- dog-box end -->
 
