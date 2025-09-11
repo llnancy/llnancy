@@ -144,10 +144,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 小孩 - 罗森涛				0次    
-🥈 一别两宽 - 佳利			0次    
-🥉 断线 - Shang/...			0次    
-🏅 可惜没如果(Live)...			0次    
-🏅 有一种遗憾叫我们 - ...			0次    
+🥈 有一种遗憾叫我们 - ...			0次    
+🥉 借口 - 刘兆宇/烟(...			0次    
+🏅 从此我们一别两宽 - ...			0次    
+🏅 回到夏天 - 傲七爷（...			0次    
 ```
 
 <!-- netease-music-box end -->
@@ -163,9 +163,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天我给你发消息，你回复我“**nmsl**”，我想了半天才知道你是在夸我，原来是**你美死了**，你嘴真甜，我爱你。
+昨天就为你充了710点卷，虽然知道你不会玩不知去向，但你说好看，你刚才说小号想要还想要一个，爱你的我还是满心欢喜的把剩下的100元
+伙食费又给你充了710，然后看到你小号并没有买，而是你送给了你的一个弟弟，你对弟弟真好，好有爱心，我感觉对你陷得很深了。
 
-                                                                                            2025-09-11 星期四
+                                                                                            2025-09-12 星期五
 ```
 <!-- dog-box end -->
 
