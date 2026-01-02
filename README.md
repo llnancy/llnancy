@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     44 commits  █▊░░░░░░░░░░░░░░░░░░░   8.8%
-🌆 白天    127 commits  █████▎░░░░░░░░░░░░░░░  25.5%
-🌃 晚上    240 commits  ██████████░░░░░░░░░░░  48.1%
-🌙 深夜     88 commits  ███▋░░░░░░░░░░░░░░░░░  17.6%
+🌞 早晨     51 commits  ██░░░░░░░░░░░░░░░░░░░   9.7%
+🌆 白天    133 commits  █████▎░░░░░░░░░░░░░░░  25.2%
+🌃 晚上    249 commits  █████████▉░░░░░░░░░░░  47.2%
+🌙 深夜     95 commits  ███▊░░░░░░░░░░░░░░░░░  18.0%
 ```
 <!-- productive-box end -->
 
@@ -162,9 +162,10 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-刚才我找你说话，你回了一个滚，我陷入了沉思，你还是如此的关心我，知道我腿受伤了，让我这样走，好感动！看来你还是爱我的！
+在我一如既往的每天跟她问早安的时候，她今天终于回我了。我激动地问她我是不是今天第一个跟她说话的人，她说不是，是**她男朋友把她叫起
+来退房**的。
 
-                                                                                            2026-01-02 星期五
+                                                                                            2026-01-03 星期六
 ```
 <!-- dog-box end -->
 
