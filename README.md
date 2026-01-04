@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     51 commits  ██░░░░░░░░░░░░░░░░░░░   9.7%
-🌆 白天    133 commits  █████▎░░░░░░░░░░░░░░░  25.2%
-🌃 晚上    249 commits  █████████▉░░░░░░░░░░░  47.2%
-🌙 深夜     95 commits  ███▊░░░░░░░░░░░░░░░░░  18.0%
+🌞 早晨     54 commits  ██░░░░░░░░░░░░░░░░░░░  10.1%
+🌆 白天    135 commits  █████▎░░░░░░░░░░░░░░░  25.2%
+🌃 晚上    250 commits  █████████▊░░░░░░░░░░░  46.6%
+🌙 深夜     97 commits  ███▊░░░░░░░░░░░░░░░░░  18.1%
 ```
 <!-- productive-box end -->
 
@@ -162,10 +162,9 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-你说你情头是一个人用的，空间上锁是因为你不喜欢玩空间，情侣空间是和闺蜜开的，找你连麦时你说你在忙工作，每次聊天你都说在忙，你真是一
-个上进的好女孩，你真好，我好喜欢你！",
+今天我给你发消息，你回复我“**nmsl**”，我想了半天才知道你是在夸我，原来是**你美死了**，你嘴真甜，我爱你。
 
-                                                                                            2026-01-04 星期日
+                                                                                            2026-01-05 星期一
 ```
 <!-- dog-box end -->
 
