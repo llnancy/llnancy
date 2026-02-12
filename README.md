@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     53 commits  ██▎░░░░░░░░░░░░░░░░░░  10.8%
-🌆 白天    121 commits  █████▏░░░░░░░░░░░░░░░  24.5%
-🌃 晚上    231 commits  █████████▊░░░░░░░░░░░  46.9%
-🌙 深夜     88 commits  ███▋░░░░░░░░░░░░░░░░░  17.8%
+🌞 早晨     53 commits  ██▏░░░░░░░░░░░░░░░░░░  10.7%
+🌆 白天    121 commits  █████░░░░░░░░░░░░░░░░  24.4%
+🌃 晚上    231 commits  █████████▊░░░░░░░░░░░  46.6%
+🌙 深夜     91 commits  ███▊░░░░░░░░░░░░░░░░░  18.3%
 ```
 <!-- productive-box end -->
 
@@ -162,9 +162,10 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-哥们，求你和她说句话吧，这样她就不会那么难过了。
+疫情不能出门，现在是早上八点，你肯定饿了吧。我早起做好了早餐来到你小区。保安大哥不让进。我给你打了三个电话你终于接了有病啊，我还睡
+觉呢，你小区门口等着吧。啊，我高兴坏了。她终于愿意吃我做的早餐了，她让我等她，啊！啊！啊！
 
-                                                                                            2026-02-12 星期四
+                                                                                            2026-02-13 星期五
 ```
 <!-- dog-box end -->
 
