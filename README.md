@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     55 commits  ██░░░░░░░░░░░░░░░░░░░   9.7%
-🌆 白天    139 commits  █████▏░░░░░░░░░░░░░░░  24.5%
-🌃 晚上    236 commits  ████████▋░░░░░░░░░░░░  41.5%
-🌙 深夜    138 commits  █████░░░░░░░░░░░░░░░░  24.3%
+🌞 早晨     55 commits  ██░░░░░░░░░░░░░░░░░░░   9.6%
+🌆 白天    139 commits  █████░░░░░░░░░░░░░░░░  24.3%
+🌃 晚上    236 commits  ████████▋░░░░░░░░░░░░  41.3%
+🌙 深夜    141 commits  █████▏░░░░░░░░░░░░░░░  24.7%
 ```
 <!-- productive-box end -->
 
@@ -162,10 +162,10 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-晚上和你聊天，10点钟不到，你就说困了去睡觉了。现在凌晨1点钟，看到你给他的朋友圈点赞评论，约他明天去吃火锅。一定是你微信被盗了吧
-。
+我坐在窗边给你发了99条消息  你终于肯回我了 你说“发你妈啊”  我一下子就哭了 原来努力真的有用  你已经开始考虑想见我的妈妈
+了 你也是挺喜欢我的。
 
-                                                                                            2026-03-24 星期二
+                                                                                            2026-03-25 星期三
 ```
 <!-- dog-box end -->
 
