@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     49 commits  █▍░░░░░░░░░░░░░░░░░░░   6.9%
-🌆 白天    125 commits  ███▋░░░░░░░░░░░░░░░░░  17.5%
-🌃 晚上    221 commits  ██████▍░░░░░░░░░░░░░░  30.9%
-🌙 深夜    320 commits  █████████▍░░░░░░░░░░░  44.8%
+🌞 早晨     49 commits  █▍░░░░░░░░░░░░░░░░░░░   6.8%
+🌆 白天    124 commits  ███▋░░░░░░░░░░░░░░░░░  17.3%
+🌃 晚上    222 commits  ██████▌░░░░░░░░░░░░░░  31.0%
+🌙 深夜    322 commits  █████████▍░░░░░░░░░░░  44.9%
 ```
 <!-- productive-box end -->
 
@@ -162,9 +162,9 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天表白被拒绝了，她对我说能不能脱下裤子撒泼尿照照自己，当我脱下裤子，她咽了口水，说我们可以试一下。
+你从来没说过爱我，聊天记录搜索了一下“爱”，唯一的一条是：你好像乡村爱情里的刘能啊。
 
-                                                                                            2026-06-13 星期六
+                                                                                            2026-06-14 星期日
 ```
 <!-- dog-box end -->
 
