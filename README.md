@@ -131,9 +131,9 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
 🌞 早晨     54 commits  █▍░░░░░░░░░░░░░░░░░░░   7.0%
-🌆 白天    120 commits  ███▎░░░░░░░░░░░░░░░░░  15.7%
-🌃 晚上    215 commits  █████▉░░░░░░░░░░░░░░░  28.1%
-🌙 深夜    377 commits  ██████████▎░░░░░░░░░░  49.2%
+🌆 白天    120 commits  ███▎░░░░░░░░░░░░░░░░░  15.6%
+🌃 晚上    215 commits  █████▉░░░░░░░░░░░░░░░  28.0%
+🌙 深夜    378 commits  ██████████▎░░░░░░░░░░  49.3%
 ```
 <!-- productive-box end -->
 
@@ -162,9 +162,9 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-我爸说再敢网恋就打断我的腿，幸好不是胳膊，这样我还能继续和你打字聊天，就算连胳膊也打断了，我的心里也会有你位置。
+中午你无故扇了我一巴掌，我握着你的手说“手怎么这么凉，都怪我没有照顾好你，一定要更加对你好”。
 
-                                                                                            2026-07-28 星期二
+                                                                                            2026-07-29 星期三
 ```
 <!-- dog-box end -->
 
