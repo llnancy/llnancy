@@ -130,10 +130,10 @@ Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Naco
 <!-- productive-box start -->
 #### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
 ```text
-🌞 早晨     54 commits  █▍░░░░░░░░░░░░░░░░░░░   7.1%
-🌆 白天    120 commits  ███▎░░░░░░░░░░░░░░░░░  15.8%
-🌃 晚上    215 commits  █████▉░░░░░░░░░░░░░░░  28.4%
-🌙 深夜    369 commits  ██████████▏░░░░░░░░░░  48.7%
+🌞 早晨     54 commits  █▌░░░░░░░░░░░░░░░░░░░   7.2%
+🌆 白天    120 commits  ███▎░░░░░░░░░░░░░░░░░  15.9%
+🌃 晚上    215 commits  █████▉░░░░░░░░░░░░░░░  28.5%
+🌙 深夜    366 commits  ██████████▏░░░░░░░░░░  48.5%
 ```
 <!-- productive-box end -->
 
@@ -162,10 +162,9 @@ Oh my God!
 <!-- dog-box start -->
 #### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
 ```text
-今天下雨了，我去你公司接你下班。看见我你不耐烦的说：烦不烦啊，不要再找我了。一头冲进雨里就跑开了。我心里真高兴啊，你宁愿自己淋雨，
-都不愿让我也淋湿一点，你果然还是爱我的。
+刚才我找你说话，你回了一个滚，我陷入了沉思，你还是如此的关心我，知道我腿受伤了，让我这样走，好感动！看来你还是爱我的！
 
-                                                                                            2026-08-20 星期四
+                                                                                            2026-08-22 星期六
 ```
 <!-- dog-box end -->
 
